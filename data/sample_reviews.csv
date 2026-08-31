@@ -1,0 +1,141 @@
+review_id,business,location,review_date,rating,review,source,author
+demo-0001,Demo GTA Restaurant,Downtown Toronto,2026-07-05,2,The Tandoori Chicken tasted bland and the portion was too small for the price.,Google,Customer 1
+demo-0002,Demo GTA Restaurant,Downtown Toronto,2026-07-05,2,Food was decent but service was very slow during dinner.,Google,Customer 2
+demo-0003,Demo GTA Restaurant,Downtown Toronto,2026-08-08,4,Good food overall. The Tandoori Chicken was the highlight.,Google,Customer 3
+demo-0004,Demo GTA Restaurant,Downtown Toronto,2026-08-08,5,Really enjoyed the Chicken Biryani. Good portions and great value.,Google,Customer 4
+demo-0005,Demo GTA Restaurant,Downtown Toronto,2026-08-20,2,Restaurant was crowded and the tables were not clean.,Google,Customer 5
+demo-0006,Demo GTA Restaurant,Downtown Toronto,2026-06-11,4,Nice atmosphere and the Butter Chicken tasted fresh.,Google,Customer 6
+demo-0007,Demo GTA Restaurant,Downtown Toronto,2026-07-05,2,Takeout was late and the packaging leaked.,Google,Customer 7
+demo-0008,Demo GTA Restaurant,Downtown Toronto,2026-08-30,2,We waited 45 minutes for the Tandoori Chicken. Food was good but service was painfully slow.,Google,Customer 8
+demo-0009,Demo GTA Restaurant,Downtown Toronto,2026-08-07,4,Nice atmosphere and the Naan tasted fresh.,Google,Customer 9
+demo-0010,Demo GTA Restaurant,Downtown Toronto,2026-07-21,5,Really enjoyed the Dal Makhani. Good portions and great value.,Google,Customer 10
+demo-0011,Demo GTA Restaurant,Downtown Toronto,2026-06-26,2,The Naan tasted bland and the portion was too small for the price.,Google,Customer 11
+demo-0012,Demo GTA Restaurant,Downtown Toronto,2026-08-31,2,Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.,Google,Customer 12
+demo-0013,Demo GTA Restaurant,Downtown Toronto,2026-07-10,3,The Tandoori Chicken was okay. Service was average.,Google,Customer 13
+demo-0014,Demo GTA Restaurant,Downtown Toronto,2026-07-30,2,Takeout was late and the packaging leaked.,Google,Customer 14
+demo-0015,Demo GTA Restaurant,Downtown Toronto,2026-07-26,5,The Butter Chicken was delicious and the staff were very friendly.,Google,Customer 15
+demo-0016,Demo GTA Restaurant,Downtown Toronto,2026-07-11,2,The Chicken Biryani tasted bland and the portion was too small for the price.,Google,Customer 16
+demo-0017,Demo GTA Restaurant,Downtown Toronto,2026-08-23,5,Really enjoyed the Butter Chicken. Good portions and great value.,Google,Customer 17
+demo-0018,Demo GTA Restaurant,Downtown Toronto,2026-08-25,2,The Dal Makhani was tasty but the wait time was unacceptable.,Google,Customer 18
+demo-0019,Demo GTA Restaurant,Downtown Toronto,2026-07-12,5,Really enjoyed the Chole Bhature. Good portions and great value.,Google,Customer 19
+demo-0020,Demo GTA Restaurant,Downtown Toronto,2026-06-06,5,"Fast service, clean dining room and tasty Momos.",Google,Customer 20
+demo-0021,Demo GTA Restaurant,Downtown Toronto,2026-07-20,3,The Butter Chicken was okay. Service was average.,Google,Customer 21
+demo-0022,Demo GTA Restaurant,Downtown Toronto,2026-08-14,2,The Naan was cold and we waited 40 minutes for our food.,Google,Customer 22
+demo-0023,Demo GTA Restaurant,Downtown Toronto,2026-08-24,4,Good food overall. The Dal Makhani was the highlight.,Google,Customer 23
+demo-0024,Demo GTA Restaurant,Downtown Toronto,2026-08-07,5,Really enjoyed the Dal Makhani. Good portions and great value.,Google,Customer 24
+demo-0025,Demo GTA Restaurant,Downtown Toronto,2026-07-09,4,Nice atmosphere and the Chole Bhature tasted fresh.,Google,Customer 25
+demo-0026,Demo GTA Restaurant,Downtown Toronto,2026-08-04,4,Good food overall. The Butter Chicken was the highlight.,Google,Customer 26
+demo-0027,Demo GTA Restaurant,Downtown Toronto,2026-07-24,4,Nice atmosphere and the Butter Chicken tasted fresh.,Google,Customer 27
+demo-0028,Demo GTA Restaurant,Downtown Toronto,2026-06-15,5,Really enjoyed the Samosa. Good portions and great value.,Google,Customer 28
+demo-0029,Demo GTA Restaurant,Downtown Toronto,2026-08-04,4,Good food overall. The Dal Makhani was the highlight.,Google,Customer 29
+demo-0030,Demo GTA Restaurant,Downtown Toronto,2026-07-20,5,The Momos was delicious and the staff were very friendly.,Google,Customer 30
+demo-0031,Demo GTA Restaurant,Downtown Toronto,2026-08-20,5,Really enjoyed the Naan. Good portions and great value.,Google,Customer 31
+demo-0032,Demo GTA Restaurant,Downtown Toronto,2026-08-30,2,The Samosa was tasty but the wait time was unacceptable.,Google,Customer 32
+demo-0033,Demo GTA Restaurant,Downtown Toronto,2026-07-04,3,"Decent meal, but nothing stood out.",Google,Customer 33
+demo-0034,Demo GTA Restaurant,Downtown Toronto,2026-06-19,2,Food was decent but service was very slow during dinner.,Google,Customer 34
+demo-0035,Demo GTA Restaurant,Downtown Toronto,2026-06-12,5,Really enjoyed the Paneer Tikka. Good portions and great value.,Google,Customer 35
+demo-0036,Demo GTA Restaurant,Downtown Toronto,2026-06-14,2,Food was decent but service was very slow during dinner.,Google,Customer 36
+demo-0037,Demo GTA Restaurant,Downtown Toronto,2026-06-12,4,Nice atmosphere and the Tandoori Chicken tasted fresh.,Google,Customer 37
+demo-0038,Demo GTA Restaurant,Downtown Toronto,2026-07-01,5,The Samosa was delicious and the staff were very friendly.,Google,Customer 38
+demo-0039,Demo GTA Restaurant,Downtown Toronto,2026-08-18,5,"Fast service, clean dining room and tasty Chicken Biryani.",Google,Customer 39
+demo-0040,Demo GTA Restaurant,Downtown Toronto,2026-08-01,4,Good food overall. The Chole Bhature was the highlight.,Google,Customer 40
+demo-0041,Demo GTA Restaurant,Downtown Toronto,2026-06-30,5,The Momos was delicious and the staff were very friendly.,Google,Customer 41
+demo-0042,Demo GTA Restaurant,Downtown Toronto,2026-08-15,4,Good food overall. The Naan was the highlight.,Google,Customer 42
+demo-0043,Demo GTA Restaurant,Downtown Toronto,2026-06-14,5,Really enjoyed the Chicken Biryani. Good portions and great value.,Google,Customer 43
+demo-0044,Demo GTA Restaurant,Downtown Toronto,2026-08-29,2,Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.,Google,Customer 44
+demo-0045,Demo GTA Restaurant,Downtown Toronto,2026-07-31,5,"Fast service, clean dining room and tasty Butter Chicken.",Google,Customer 45
+demo-0046,Demo GTA Restaurant,Downtown Toronto,2026-07-15,5,Really enjoyed the Tandoori Chicken. Good portions and great value.,Google,Customer 46
+demo-0047,Demo GTA Restaurant,Downtown Toronto,2026-08-20,4,Nice atmosphere and the Hakka Noodles tasted fresh.,Google,Customer 47
+demo-0048,Demo GTA Restaurant,Downtown Toronto,2026-07-20,5,Really enjoyed the Tandoori Chicken. Good portions and great value.,Google,Customer 48
+demo-0049,Demo GTA Restaurant,Downtown Toronto,2026-06-17,3,"Decent meal, but nothing stood out.",Google,Customer 49
+demo-0050,Demo GTA Restaurant,Downtown Toronto,2026-07-17,3,The Momos was okay. Service was average.,Google,Customer 50
+demo-0051,Demo GTA Restaurant,Downtown Toronto,2026-06-16,5,"Fast service, clean dining room and tasty Chicken Biryani.",Google,Customer 51
+demo-0052,Demo GTA Restaurant,Downtown Toronto,2026-07-22,3,The Paneer Tikka was okay. Service was average.,Google,Customer 52
+demo-0053,Demo GTA Restaurant,Downtown Toronto,2026-07-05,5,The Tandoori Chicken was delicious and the staff were very friendly.,Google,Customer 53
+demo-0054,Demo GTA Restaurant,Downtown Toronto,2026-08-15,4,Nice atmosphere and the Hakka Noodles tasted fresh.,Google,Customer 54
+demo-0055,Demo GTA Restaurant,Downtown Toronto,2026-08-22,4,Nice atmosphere and the Chole Bhature tasted fresh.,Google,Customer 55
+demo-0056,Demo GTA Restaurant,Downtown Toronto,2026-06-19,2,The Butter Chicken tasted bland and the portion was too small for the price.,Google,Customer 56
+demo-0057,Demo GTA Restaurant,Downtown Toronto,2026-07-14,5,The Samosa was delicious and the staff were very friendly.,Google,Customer 57
+demo-0058,Demo GTA Restaurant,Downtown Toronto,2026-08-21,3,"Decent meal, but nothing stood out.",Google,Customer 58
+demo-0059,Demo GTA Restaurant,Downtown Toronto,2026-07-20,3,The food was fine and the wait was about 15 minutes.,Google,Customer 59
+demo-0060,Demo GTA Restaurant,Downtown Toronto,2026-06-18,4,Good food overall. The Dal Makhani was the highlight.,Google,Customer 60
+demo-0061,Demo GTA Restaurant,Downtown Toronto,2026-08-21,4,Good food overall. The Tandoori Chicken was the highlight.,Google,Customer 61
+demo-0062,Demo GTA Restaurant,Downtown Toronto,2026-08-20,5,The Dal Makhani was delicious and the staff were very friendly.,Google,Customer 62
+demo-0063,Demo GTA Restaurant,Downtown Toronto,2026-06-29,2,The Samosa tasted bland and the portion was too small for the price.,Google,Customer 63
+demo-0064,Demo GTA Restaurant,Downtown Toronto,2026-07-30,5,Really enjoyed the Butter Chicken. Good portions and great value.,Google,Customer 64
+demo-0065,Demo GTA Restaurant,Downtown Toronto,2026-06-06,5,Really enjoyed the Samosa. Good portions and great value.,Google,Customer 65
+demo-0066,Demo GTA Restaurant,Downtown Toronto,2026-07-19,5,Really enjoyed the Dal Makhani. Good portions and great value.,Google,Customer 66
+demo-0067,Demo GTA Restaurant,Downtown Toronto,2026-07-21,2,Food was decent but service was very slow during dinner.,Google,Customer 67
+demo-0068,Demo GTA Restaurant,Downtown Toronto,2026-06-11,2,Food was decent but service was very slow during dinner.,Google,Customer 68
+demo-0069,Demo GTA Restaurant,Downtown Toronto,2026-08-04,5,"Fast service, clean dining room and tasty Chole Bhature.",Google,Customer 69
+demo-0070,Demo GTA Restaurant,Downtown Toronto,2026-08-05,5,"Fast service, clean dining room and tasty Paneer Tikka.",Google,Customer 70
+demo-0071,Demo GTA Restaurant,Downtown Toronto,2026-08-26,5,Really enjoyed the Chicken Biryani. Good portions and great value.,Google,Customer 71
+demo-0072,Demo GTA Restaurant,Downtown Toronto,2026-08-17,5,Really enjoyed the Dal Makhani. Good portions and great value.,Google,Customer 72
+demo-0073,Demo GTA Restaurant,Downtown Toronto,2026-07-10,2,The Chole Bhature tasted bland and the portion was too small for the price.,Google,Customer 73
+demo-0074,Demo GTA Restaurant,Downtown Toronto,2026-06-06,2,Takeout was late and the packaging leaked.,Google,Customer 74
+demo-0075,Demo GTA Restaurant,Downtown Toronto,2026-07-05,5,The Hakka Noodles was delicious and the staff were very friendly.,Google,Customer 75
+demo-0076,Demo GTA Restaurant,Downtown Toronto,2026-07-27,5,"Fast service, clean dining room and tasty Samosa.",Google,Customer 76
+demo-0077,Demo GTA Restaurant,Downtown Toronto,2026-06-19,4,Good food overall. The Hakka Noodles was the highlight.,Google,Customer 77
+demo-0078,Demo GTA Restaurant,Downtown Toronto,2026-08-29,2,We waited 45 minutes for the Paneer Tikka. Food was good but service was painfully slow.,Google,Customer 78
+demo-0079,Demo GTA Restaurant,Downtown Toronto,2026-08-28,2,We waited 45 minutes for the Momos. Food was good but service was painfully slow.,Google,Customer 79
+demo-0080,Demo GTA Restaurant,Downtown Toronto,2026-08-25,2,The Chicken Biryani was tasty but the wait time was unacceptable.,Google,Customer 80
+demo-0081,Demo GTA Restaurant,Downtown Toronto,2026-06-24,3,The food was fine and the wait was about 15 minutes.,Google,Customer 81
+demo-0082,Demo GTA Restaurant,Downtown Toronto,2026-08-06,1,The staff seemed rude and our order had a missing item.,Google,Customer 82
+demo-0083,Demo GTA Restaurant,Downtown Toronto,2026-08-09,2,Takeout was late and the packaging leaked.,Google,Customer 83
+demo-0084,Demo GTA Restaurant,Downtown Toronto,2026-08-27,2,Dinner service was very slow. Waited over 35 minutes before getting the Paneer Tikka.,Google,Customer 84
+demo-0085,Demo GTA Restaurant,Downtown Toronto,2026-06-23,5,Really enjoyed the Tandoori Chicken. Good portions and great value.,Google,Customer 85
+demo-0086,Demo GTA Restaurant,Downtown Toronto,2026-07-12,4,Nice atmosphere and the Naan tasted fresh.,Google,Customer 86
+demo-0087,Demo GTA Restaurant,Downtown Toronto,2026-08-15,5,The Dal Makhani was delicious and the staff were very friendly.,Google,Customer 87
+demo-0088,Demo GTA Restaurant,Downtown Toronto,2026-07-14,4,Good food overall. The Tandoori Chicken was the highlight.,Google,Customer 88
+demo-0089,Demo GTA Restaurant,Downtown Toronto,2026-07-19,5,Really enjoyed the Dal Makhani. Good portions and great value.,Google,Customer 89
+demo-0090,Demo GTA Restaurant,Downtown Toronto,2026-08-19,4,Nice atmosphere and the Chicken Biryani tasted fresh.,Google,Customer 90
+demo-0091,Demo GTA Restaurant,Downtown Toronto,2026-08-20,5,"Fast service, clean dining room and tasty Momos.",Google,Customer 91
+demo-0092,Demo GTA Restaurant,Downtown Toronto,2026-07-29,5,The Butter Chicken was delicious and the staff were very friendly.,Google,Customer 92
+demo-0093,Demo GTA Restaurant,Downtown Toronto,2026-08-27,2,Dinner service was very slow. Waited over 35 minutes before getting the Dal Makhani.,Google,Customer 93
+demo-0094,Demo GTA Restaurant,Downtown Toronto,2026-07-27,3,The Dal Makhani was okay. Service was average.,Google,Customer 94
+demo-0095,Demo GTA Restaurant,Downtown Toronto,2026-08-23,5,"Fast service, clean dining room and tasty Chole Bhature.",Google,Customer 95
+demo-0096,Demo GTA Restaurant,Downtown Toronto,2026-06-05,4,Good food overall. The Paneer Tikka was the highlight.,Google,Customer 96
+demo-0097,Demo GTA Restaurant,Downtown Toronto,2026-06-26,3,"Decent meal, but nothing stood out.",Google,Customer 97
+demo-0098,Demo GTA Restaurant,Downtown Toronto,2026-06-18,2,The Chicken Biryani tasted bland and the portion was too small for the price.,Google,Customer 98
+demo-0099,Demo GTA Restaurant,Downtown Toronto,2026-06-25,4,Good food overall. The Tandoori Chicken was the highlight.,Google,Customer 99
+demo-0100,Demo GTA Restaurant,Downtown Toronto,2026-06-11,4,Good food overall. The Paneer Tikka was the highlight.,Google,Customer 100
+demo-0101,Demo GTA Restaurant,Downtown Toronto,2026-07-30,2,Takeout was late and the packaging leaked.,Google,Customer 101
+demo-0102,Demo GTA Restaurant,Downtown Toronto,2026-08-05,2,Takeout was late and the packaging leaked.,Google,Customer 102
+demo-0103,Demo GTA Restaurant,Downtown Toronto,2026-06-25,5,Really enjoyed the Momos. Good portions and great value.,Google,Customer 103
+demo-0104,Demo GTA Restaurant,Downtown Toronto,2026-07-10,5,The Tandoori Chicken was delicious and the staff were very friendly.,Google,Customer 104
+demo-0105,Demo GTA Restaurant,Downtown Toronto,2026-06-15,5,The Chole Bhature was delicious and the staff were very friendly.,Google,Customer 105
+demo-0106,Demo GTA Restaurant,Downtown Toronto,2026-06-26,4,Good food overall. The Chole Bhature was the highlight.,Google,Customer 106
+demo-0107,Demo GTA Restaurant,Downtown Toronto,2026-08-16,5,Really enjoyed the Dal Makhani. Good portions and great value.,Google,Customer 107
+demo-0108,Demo GTA Restaurant,Downtown Toronto,2026-08-23,2,Dinner service was very slow. Waited over 35 minutes before getting the Tandoori Chicken.,Google,Customer 108
+demo-0109,Demo GTA Restaurant,Downtown Toronto,2026-07-28,5,Really enjoyed the Naan. Good portions and great value.,Google,Customer 109
+demo-0110,Demo GTA Restaurant,Downtown Toronto,2026-07-19,3,"Decent meal, but nothing stood out.",Google,Customer 110
+demo-0111,Demo GTA Restaurant,Downtown Toronto,2026-06-25,4,Nice atmosphere and the Hakka Noodles tasted fresh.,Google,Customer 111
+demo-0112,Demo GTA Restaurant,Downtown Toronto,2026-06-13,3,The Butter Chicken was okay. Service was average.,Google,Customer 112
+demo-0113,Demo GTA Restaurant,Downtown Toronto,2026-06-03,5,Really enjoyed the Butter Chicken. Good portions and great value.,Google,Customer 113
+demo-0114,Demo GTA Restaurant,Downtown Toronto,2026-08-02,1,The staff seemed rude and our order had a missing item.,Google,Customer 114
+demo-0115,Demo GTA Restaurant,Downtown Toronto,2026-07-17,5,The Naan was delicious and the staff were very friendly.,Google,Customer 115
+demo-0116,Demo GTA Restaurant,Downtown Toronto,2026-06-29,4,Good food overall. The Samosa was the highlight.,Google,Customer 116
+demo-0117,Demo GTA Restaurant,Downtown Toronto,2026-06-13,2,Restaurant was crowded and the tables were not clean.,Google,Customer 117
+demo-0118,Demo GTA Restaurant,Downtown Toronto,2026-06-25,4,Nice atmosphere and the Chole Bhature tasted fresh.,Google,Customer 118
+demo-0119,Demo GTA Restaurant,Downtown Toronto,2026-06-25,5,Really enjoyed the Samosa. Good portions and great value.,Google,Customer 119
+demo-0120,Demo GTA Restaurant,Downtown Toronto,2026-06-12,2,Takeout was late and the packaging leaked.,Google,Customer 120
+demo-0121,Demo GTA Restaurant,Downtown Toronto,2026-08-04,5,Really enjoyed the Tandoori Chicken. Good portions and great value.,Google,Customer 121
+demo-0122,Demo GTA Restaurant,Downtown Toronto,2026-08-02,3,"Decent meal, but nothing stood out.",Google,Customer 122
+demo-0123,Demo GTA Restaurant,Downtown Toronto,2026-06-15,3,The Hakka Noodles was okay. Service was average.,Google,Customer 123
+demo-0124,Demo GTA Restaurant,Downtown Toronto,2026-08-04,3,The Naan was okay. Service was average.,Google,Customer 124
+demo-0125,Demo GTA Restaurant,Downtown Toronto,2026-08-01,1,The staff seemed rude and our order had a missing item.,Google,Customer 125
+demo-0126,Demo GTA Restaurant,Downtown Toronto,2026-07-13,4,Nice atmosphere and the Chicken Biryani tasted fresh.,Google,Customer 126
+demo-0127,Demo GTA Restaurant,Downtown Toronto,2026-06-23,5,The Paneer Tikka was delicious and the staff were very friendly.,Google,Customer 127
+demo-0128,Demo GTA Restaurant,Downtown Toronto,2026-08-19,5,"Fast service, clean dining room and tasty Naan.",Google,Customer 128
+demo-0129,Demo GTA Restaurant,Downtown Toronto,2026-07-16,2,Restaurant was crowded and the tables were not clean.,Google,Customer 129
+demo-0130,Demo GTA Restaurant,Downtown Toronto,2026-07-19,3,The Tandoori Chicken was okay. Service was average.,Google,Customer 130
+demo-0131,Demo GTA Restaurant,Downtown Toronto,2026-08-22,2,We waited 45 minutes for the Dal Makhani. Food was good but service was painfully slow.,Google,Customer 131
+demo-0132,Demo GTA Restaurant,Downtown Toronto,2026-06-22,4,Good food overall. The Samosa was the highlight.,Google,Customer 132
+demo-0133,Demo GTA Restaurant,Downtown Toronto,2026-07-01,5,The Paneer Tikka was delicious and the staff were very friendly.,Google,Customer 133
+demo-0134,Demo GTA Restaurant,Downtown Toronto,2026-08-05,1,The staff seemed rude and our order had a missing item.,Google,Customer 134
+demo-0135,Demo GTA Restaurant,Downtown Toronto,2026-06-06,5,Really enjoyed the Chicken Biryani. Good portions and great value.,Google,Customer 135
+demo-0136,Demo GTA Restaurant,Downtown Toronto,2026-06-05,5,The Dal Makhani was delicious and the staff were very friendly.,Google,Customer 136
+demo-0137,Demo GTA Restaurant,Downtown Toronto,2026-07-21,4,Good food overall. The Chole Bhature was the highlight.,Google,Customer 137
+demo-0138,Demo GTA Restaurant,Downtown Toronto,2026-07-17,5,"Fast service, clean dining room and tasty Chole Bhature.",Google,Customer 138
+demo-0139,Demo GTA Restaurant,Downtown Toronto,2026-08-30,4,Nice atmosphere and the Butter Chicken tasted fresh.,Google,Customer 139
+demo-0140,Demo GTA Restaurant,Downtown Toronto,2026-07-16,5,Really enjoyed the Hakka Noodles. Good portions and great value.,Google,Customer 140
