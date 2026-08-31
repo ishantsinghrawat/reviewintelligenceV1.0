@@ -1,0 +1,4434 @@
+{
+  "generated_at": "2026-08-31T15:30:25",
+  "source_file": "sample_reviews.csv",
+  "business": {
+    "name": "Demo GTA Restaurant",
+    "location": "Downtown Toronto"
+  },
+  "window": {
+    "days": 30,
+    "start": "2026-08-02",
+    "end": "2026-08-31"
+  },
+  "metrics": {
+    "reviews": 50,
+    "average_rating": 3.44,
+    "positive_pct": 56.0,
+    "negative_pct": 38.0,
+    "alerts": 3
+  },
+  "category_stats": [
+    {
+      "category": "Food Quality",
+      "mentions": 15,
+      "negative_mentions": 1,
+      "positive_mentions": 12,
+      "negative_rate": 0.067,
+      "prior_negative_mentions": 0,
+      "change_ratio": null
+    },
+    {
+      "category": "Taste",
+      "mentions": 11,
+      "negative_mentions": 3,
+      "positive_mentions": 8,
+      "negative_rate": 0.273,
+      "prior_negative_mentions": 3,
+      "change_ratio": 1.0
+    },
+    {
+      "category": "Portion Size",
+      "mentions": 8,
+      "negative_mentions": 0,
+      "positive_mentions": 8,
+      "negative_rate": 0.0,
+      "prior_negative_mentions": 3,
+      "change_ratio": 0.0
+    },
+    {
+      "category": "Price / Value",
+      "mentions": 8,
+      "negative_mentions": 0,
+      "positive_mentions": 8,
+      "negative_rate": 0.0,
+      "prior_negative_mentions": 3,
+      "change_ratio": 0.0
+    },
+    {
+      "category": "Service",
+      "mentions": 16,
+      "negative_mentions": 9,
+      "positive_mentions": 6,
+      "negative_rate": 0.562,
+      "prior_negative_mentions": 2,
+      "change_ratio": 4.5
+    },
+    {
+      "category": "Staff Behaviour",
+      "mentions": 5,
+      "negative_mentions": 3,
+      "positive_mentions": 2,
+      "negative_rate": 0.6,
+      "prior_negative_mentions": 1,
+      "change_ratio": 3.0
+    },
+    {
+      "category": "Wait Time",
+      "mentions": 15,
+      "negative_mentions": 15,
+      "positive_mentions": 0,
+      "negative_rate": 1.0,
+      "prior_negative_mentions": 5,
+      "change_ratio": 3.0
+    },
+    {
+      "category": "Order Accuracy",
+      "mentions": 3,
+      "negative_mentions": 3,
+      "positive_mentions": 0,
+      "negative_rate": 1.0,
+      "prior_negative_mentions": 1,
+      "change_ratio": 3.0
+    },
+    {
+      "category": "Cleanliness",
+      "mentions": 10,
+      "negative_mentions": 4,
+      "positive_mentions": 6,
+      "negative_rate": 0.4,
+      "prior_negative_mentions": 1,
+      "change_ratio": 4.0
+    },
+    {
+      "category": "Ambience",
+      "mentions": 6,
+      "negative_mentions": 0,
+      "positive_mentions": 6,
+      "negative_rate": 0.0,
+      "prior_negative_mentions": 0,
+      "change_ratio": 0
+    },
+    {
+      "category": "Delivery / Takeout",
+      "mentions": 2,
+      "negative_mentions": 2,
+      "positive_mentions": 0,
+      "negative_rate": 1.0,
+      "prior_negative_mentions": 3,
+      "change_ratio": 0.67
+    },
+    {
+      "category": "Parking / Accessibility",
+      "mentions": 0,
+      "negative_mentions": 0,
+      "positive_mentions": 0,
+      "negative_rate": 0,
+      "prior_negative_mentions": 0,
+      "change_ratio": 0
+    },
+    {
+      "category": "Menu Availability",
+      "mentions": 0,
+      "negative_mentions": 0,
+      "positive_mentions": 0,
+      "negative_rate": 0,
+      "prior_negative_mentions": 0,
+      "change_ratio": 0
+    }
+  ],
+  "menu_stats": [
+    {
+      "item": "Dal Makhani",
+      "mentions": 10,
+      "positive": 7,
+      "negative": 3,
+      "avg_rating": 3.9
+    },
+    {
+      "item": "Chicken Biryani",
+      "mentions": 7,
+      "positive": 4,
+      "negative": 3,
+      "avg_rating": 3.57
+    },
+    {
+      "item": "Naan",
+      "mentions": 6,
+      "positive": 4,
+      "negative": 1,
+      "avg_rating": 3.83
+    },
+    {
+      "item": "Tandoori Chicken",
+      "mentions": 5,
+      "positive": 3,
+      "negative": 2,
+      "avg_rating": 3.4
+    },
+    {
+      "item": "Butter Chicken",
+      "mentions": 3,
+      "positive": 3,
+      "negative": 0,
+      "avg_rating": 4.33
+    },
+    {
+      "item": "Paneer Tikka",
+      "mentions": 3,
+      "positive": 1,
+      "negative": 2,
+      "avg_rating": 3.0
+    },
+    {
+      "item": "Chole Bhature",
+      "mentions": 3,
+      "positive": 3,
+      "negative": 0,
+      "avg_rating": 4.67
+    },
+    {
+      "item": "Momos",
+      "mentions": 2,
+      "positive": 1,
+      "negative": 1,
+      "avg_rating": 3.5
+    },
+    {
+      "item": "Hakka Noodles",
+      "mentions": 2,
+      "positive": 2,
+      "negative": 0,
+      "avg_rating": 4.0
+    },
+    {
+      "item": "Samosa",
+      "mentions": 1,
+      "positive": 0,
+      "negative": 1,
+      "avg_rating": 2.0
+    }
+  ],
+  "alerts": [
+    {
+      "category": "Service",
+      "current_negative": 9,
+      "previous_negative": 2,
+      "increase_ratio": 4.5,
+      "severity": "High"
+    },
+    {
+      "category": "Wait Time",
+      "current_negative": 15,
+      "previous_negative": 5,
+      "increase_ratio": 3.0,
+      "severity": "High"
+    },
+    {
+      "category": "Cleanliness",
+      "current_negative": 4,
+      "previous_negative": 1,
+      "increase_ratio": 4.0,
+      "severity": "High"
+    }
+  ],
+  "brief": {
+    "headline": "Customer feedback needs attention",
+    "summary": "50 reviews analyzed in the latest 30-day window with an average rating of 3.44.",
+    "top_concerns": [
+      "Wait Time",
+      "Service",
+      "Cleanliness"
+    ],
+    "top_strengths": [
+      "Food Quality",
+      "Taste",
+      "Portion Size"
+    ],
+    "recommended_actions": [
+      "Investigate wait time complaints; 15 negative mentions were detected.",
+      "Investigate service complaints; 9 negative mentions were detected.",
+      "Investigate cleanliness complaints; 4 negative mentions were detected."
+    ]
+  },
+  "reviews": [
+    {
+      "review_id": "demo-0012",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-31",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
+      "source": "Google",
+      "author": "Customer 12",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0008",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-30",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Tandoori Chicken. Food was good but service was painfully slow.",
+      "source": "Google",
+      "author": "Customer 8",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0032",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-30",
+      "rating": 2,
+      "review": "The Samosa was tasty but the wait time was unacceptable.",
+      "source": "Google",
+      "author": "Customer 32",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "wait"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "table"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0139",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-30",
+      "rating": 4,
+      "review": "Nice atmosphere and the Butter Chicken tasted fresh.",
+      "source": "Google",
+      "author": "Customer 139",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0044",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-29",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
+      "source": "Google",
+      "author": "Customer 44",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0078",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-29",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Paneer Tikka. Food was good but service was painfully slow.",
+      "source": "Google",
+      "author": "Customer 78",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0079",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-28",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Momos. Food was good but service was painfully slow.",
+      "source": "Google",
+      "author": "Customer 79",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0084",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-27",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Paneer Tikka.",
+      "source": "Google",
+      "author": "Customer 84",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0093",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-27",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Dal Makhani.",
+      "source": "Google",
+      "author": "Customer 93",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0071",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-26",
+      "rating": 5,
+      "review": "Really enjoyed the Chicken Biryani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 71",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0018",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-25",
+      "rating": 2,
+      "review": "The Dal Makhani was tasty but the wait time was unacceptable.",
+      "source": "Google",
+      "author": "Customer 18",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "wait"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "table"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0080",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-25",
+      "rating": 2,
+      "review": "The Chicken Biryani was tasty but the wait time was unacceptable.",
+      "source": "Google",
+      "author": "Customer 80",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "wait"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "table"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0023",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-24",
+      "rating": 4,
+      "review": "Good food overall. The Dal Makhani was the highlight.",
+      "source": "Google",
+      "author": "Customer 23",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0017",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-23",
+      "rating": 5,
+      "review": "Really enjoyed the Butter Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 17",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0095",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-23",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Chole Bhature.",
+      "source": "Google",
+      "author": "Customer 95",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0108",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-23",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Tandoori Chicken.",
+      "source": "Google",
+      "author": "Customer 108",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0055",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-22",
+      "rating": 4,
+      "review": "Nice atmosphere and the Chole Bhature tasted fresh.",
+      "source": "Google",
+      "author": "Customer 55",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0131",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-22",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Dal Makhani. Food was good but service was painfully slow.",
+      "source": "Google",
+      "author": "Customer 131",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.8500000000000001,
+          "hits": [
+            "wait",
+            "minutes",
+            "slow"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0058",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-21",
+      "rating": 3,
+      "review": "Decent meal, but nothing stood out.",
+      "source": "Google",
+      "author": "Customer 58",
+      "sentiment": "Neutral",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0061",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-21",
+      "rating": 4,
+      "review": "Good food overall. The Tandoori Chicken was the highlight.",
+      "source": "Google",
+      "author": "Customer 61",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0005",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-20",
+      "rating": 2,
+      "review": "Restaurant was crowded and the tables were not clean.",
+      "source": "Google",
+      "author": "Customer 5",
+      "sentiment": "Negative",
+      "primary_category": "Cleanliness",
+      "aspects": [
+        {
+          "category": "Cleanliness",
+          "score": 0.75,
+          "hits": [
+            "clean",
+            "table"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0031",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-20",
+      "rating": 5,
+      "review": "Really enjoyed the Naan. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 31",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0047",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-20",
+      "rating": 4,
+      "review": "Nice atmosphere and the Hakka Noodles tasted fresh.",
+      "source": "Google",
+      "author": "Customer 47",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0062",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-20",
+      "rating": 5,
+      "review": "The Dal Makhani was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 62",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0091",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-20",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Momos.",
+      "source": "Google",
+      "author": "Customer 91",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0090",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-19",
+      "rating": 4,
+      "review": "Nice atmosphere and the Chicken Biryani tasted fresh.",
+      "source": "Google",
+      "author": "Customer 90",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0128",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-19",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Naan.",
+      "source": "Google",
+      "author": "Customer 128",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0039",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-18",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Chicken Biryani.",
+      "source": "Google",
+      "author": "Customer 39",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0072",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-17",
+      "rating": 5,
+      "review": "Really enjoyed the Dal Makhani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 72",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0107",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-16",
+      "rating": 5,
+      "review": "Really enjoyed the Dal Makhani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 107",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0042",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-15",
+      "rating": 4,
+      "review": "Good food overall. The Naan was the highlight.",
+      "source": "Google",
+      "author": "Customer 42",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0054",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-15",
+      "rating": 4,
+      "review": "Nice atmosphere and the Hakka Noodles tasted fresh.",
+      "source": "Google",
+      "author": "Customer 54",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0087",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-15",
+      "rating": 5,
+      "review": "The Dal Makhani was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 87",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0022",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-14",
+      "rating": 2,
+      "review": "The Naan was cold and we waited 40 minutes for our food.",
+      "source": "Google",
+      "author": "Customer 22",
+      "sentiment": "Negative",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.75,
+          "hits": [
+            "wait",
+            "minutes"
+          ]
+        },
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "cold"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0083",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-09",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 83",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0003",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-08",
+      "rating": 4,
+      "review": "Good food overall. The Tandoori Chicken was the highlight.",
+      "source": "Google",
+      "author": "Customer 3",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0004",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-08",
+      "rating": 5,
+      "review": "Really enjoyed the Chicken Biryani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 4",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0009",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-07",
+      "rating": 4,
+      "review": "Nice atmosphere and the Naan tasted fresh.",
+      "source": "Google",
+      "author": "Customer 9",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0024",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-07",
+      "rating": 5,
+      "review": "Really enjoyed the Dal Makhani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 24",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0082",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-06",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "source": "Google",
+      "author": "Customer 82",
+      "sentiment": "Negative",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "rude"
+          ]
+        },
+        {
+          "category": "Order Accuracy",
+          "score": 0.65,
+          "hits": [
+            "missing item"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0070",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-05",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Paneer Tikka.",
+      "source": "Google",
+      "author": "Customer 70",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0102",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-05",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 102",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0134",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-05",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "source": "Google",
+      "author": "Customer 134",
+      "sentiment": "Negative",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "rude"
+          ]
+        },
+        {
+          "category": "Order Accuracy",
+          "score": 0.65,
+          "hits": [
+            "missing item"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0026",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-04",
+      "rating": 4,
+      "review": "Good food overall. The Butter Chicken was the highlight.",
+      "source": "Google",
+      "author": "Customer 26",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0029",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-04",
+      "rating": 4,
+      "review": "Good food overall. The Dal Makhani was the highlight.",
+      "source": "Google",
+      "author": "Customer 29",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0069",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-04",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Chole Bhature.",
+      "source": "Google",
+      "author": "Customer 69",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0121",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-04",
+      "rating": 5,
+      "review": "Really enjoyed the Tandoori Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 121",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0124",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-04",
+      "rating": 3,
+      "review": "The Naan was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 124",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0114",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-02",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "source": "Google",
+      "author": "Customer 114",
+      "sentiment": "Negative",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "rude"
+          ]
+        },
+        {
+          "category": "Order Accuracy",
+          "score": 0.65,
+          "hits": [
+            "missing item"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0122",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-02",
+      "rating": 3,
+      "review": "Decent meal, but nothing stood out.",
+      "source": "Google",
+      "author": "Customer 122",
+      "sentiment": "Neutral",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0040",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-01",
+      "rating": 4,
+      "review": "Good food overall. The Chole Bhature was the highlight.",
+      "source": "Google",
+      "author": "Customer 40",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0125",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-08-01",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "source": "Google",
+      "author": "Customer 125",
+      "sentiment": "Negative",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "rude"
+          ]
+        },
+        {
+          "category": "Order Accuracy",
+          "score": 0.65,
+          "hits": [
+            "missing item"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0045",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-31",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Butter Chicken.",
+      "source": "Google",
+      "author": "Customer 45",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0014",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-30",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 14",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0064",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-30",
+      "rating": 5,
+      "review": "Really enjoyed the Butter Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 64",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0101",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-30",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 101",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0092",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-29",
+      "rating": 5,
+      "review": "The Butter Chicken was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 92",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0109",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-28",
+      "rating": 5,
+      "review": "Really enjoyed the Naan. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 109",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0076",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-27",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Samosa.",
+      "source": "Google",
+      "author": "Customer 76",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0094",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-27",
+      "rating": 3,
+      "review": "The Dal Makhani was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 94",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0015",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-26",
+      "rating": 5,
+      "review": "The Butter Chicken was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 15",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0027",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-24",
+      "rating": 4,
+      "review": "Nice atmosphere and the Butter Chicken tasted fresh.",
+      "source": "Google",
+      "author": "Customer 27",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0052",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-22",
+      "rating": 3,
+      "review": "The Paneer Tikka was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 52",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0010",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-21",
+      "rating": 5,
+      "review": "Really enjoyed the Dal Makhani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 10",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0067",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-21",
+      "rating": 2,
+      "review": "Food was decent but service was very slow during dinner.",
+      "source": "Google",
+      "author": "Customer 67",
+      "sentiment": "Negative",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "slow"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0137",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-21",
+      "rating": 4,
+      "review": "Good food overall. The Chole Bhature was the highlight.",
+      "source": "Google",
+      "author": "Customer 137",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0021",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-20",
+      "rating": 3,
+      "review": "The Butter Chicken was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 21",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0030",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-20",
+      "rating": 5,
+      "review": "The Momos was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 30",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0048",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-20",
+      "rating": 5,
+      "review": "Really enjoyed the Tandoori Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 48",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0059",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-20",
+      "rating": 3,
+      "review": "The food was fine and the wait was about 15 minutes.",
+      "source": "Google",
+      "author": "Customer 59",
+      "sentiment": "Neutral",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.75,
+          "hits": [
+            "wait",
+            "minutes"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0066",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-19",
+      "rating": 5,
+      "review": "Really enjoyed the Dal Makhani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 66",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0089",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-19",
+      "rating": 5,
+      "review": "Really enjoyed the Dal Makhani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 89",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0110",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-19",
+      "rating": 3,
+      "review": "Decent meal, but nothing stood out.",
+      "source": "Google",
+      "author": "Customer 110",
+      "sentiment": "Neutral",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0130",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-19",
+      "rating": 3,
+      "review": "The Tandoori Chicken was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 130",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0050",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-17",
+      "rating": 3,
+      "review": "The Momos was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 50",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0115",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-17",
+      "rating": 5,
+      "review": "The Naan was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 115",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0138",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-17",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Chole Bhature.",
+      "source": "Google",
+      "author": "Customer 138",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0129",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-16",
+      "rating": 2,
+      "review": "Restaurant was crowded and the tables were not clean.",
+      "source": "Google",
+      "author": "Customer 129",
+      "sentiment": "Negative",
+      "primary_category": "Cleanliness",
+      "aspects": [
+        {
+          "category": "Cleanliness",
+          "score": 0.75,
+          "hits": [
+            "clean",
+            "table"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0140",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-16",
+      "rating": 5,
+      "review": "Really enjoyed the Hakka Noodles. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 140",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0046",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-15",
+      "rating": 5,
+      "review": "Really enjoyed the Tandoori Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 46",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0057",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-14",
+      "rating": 5,
+      "review": "The Samosa was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 57",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0088",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-14",
+      "rating": 4,
+      "review": "Good food overall. The Tandoori Chicken was the highlight.",
+      "source": "Google",
+      "author": "Customer 88",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0126",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-13",
+      "rating": 4,
+      "review": "Nice atmosphere and the Chicken Biryani tasted fresh.",
+      "source": "Google",
+      "author": "Customer 126",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0019",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-12",
+      "rating": 5,
+      "review": "Really enjoyed the Chole Bhature. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 19",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0086",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-12",
+      "rating": 4,
+      "review": "Nice atmosphere and the Naan tasted fresh.",
+      "source": "Google",
+      "author": "Customer 86",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0016",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-11",
+      "rating": 2,
+      "review": "The Chicken Biryani tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 16",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0013",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-10",
+      "rating": 3,
+      "review": "The Tandoori Chicken was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 13",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0073",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-10",
+      "rating": 2,
+      "review": "The Chole Bhature tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 73",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0104",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-10",
+      "rating": 5,
+      "review": "The Tandoori Chicken was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 104",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0025",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-09",
+      "rating": 4,
+      "review": "Nice atmosphere and the Chole Bhature tasted fresh.",
+      "source": "Google",
+      "author": "Customer 25",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0001",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-05",
+      "rating": 2,
+      "review": "The Tandoori Chicken tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 1",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0002",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-05",
+      "rating": 2,
+      "review": "Food was decent but service was very slow during dinner.",
+      "source": "Google",
+      "author": "Customer 2",
+      "sentiment": "Negative",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "slow"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0007",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-05",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 7",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0053",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-05",
+      "rating": 5,
+      "review": "The Tandoori Chicken was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 53",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0075",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-05",
+      "rating": 5,
+      "review": "The Hakka Noodles was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 75",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0033",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-04",
+      "rating": 3,
+      "review": "Decent meal, but nothing stood out.",
+      "source": "Google",
+      "author": "Customer 33",
+      "sentiment": "Neutral",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0038",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-01",
+      "rating": 5,
+      "review": "The Samosa was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 38",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0133",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-07-01",
+      "rating": 5,
+      "review": "The Paneer Tikka was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 133",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0041",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-30",
+      "rating": 5,
+      "review": "The Momos was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 41",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0063",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-29",
+      "rating": 2,
+      "review": "The Samosa tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 63",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0116",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-29",
+      "rating": 4,
+      "review": "Good food overall. The Samosa was the highlight.",
+      "source": "Google",
+      "author": "Customer 116",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0011",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-26",
+      "rating": 2,
+      "review": "The Naan tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 11",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Naan"
+      ]
+    },
+    {
+      "review_id": "demo-0097",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-26",
+      "rating": 3,
+      "review": "Decent meal, but nothing stood out.",
+      "source": "Google",
+      "author": "Customer 97",
+      "sentiment": "Neutral",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0106",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-26",
+      "rating": 4,
+      "review": "Good food overall. The Chole Bhature was the highlight.",
+      "source": "Google",
+      "author": "Customer 106",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0099",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-25",
+      "rating": 4,
+      "review": "Good food overall. The Tandoori Chicken was the highlight.",
+      "source": "Google",
+      "author": "Customer 99",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0103",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-25",
+      "rating": 5,
+      "review": "Really enjoyed the Momos. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 103",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0111",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-25",
+      "rating": 4,
+      "review": "Nice atmosphere and the Hakka Noodles tasted fresh.",
+      "source": "Google",
+      "author": "Customer 111",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0118",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-25",
+      "rating": 4,
+      "review": "Nice atmosphere and the Chole Bhature tasted fresh.",
+      "source": "Google",
+      "author": "Customer 118",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0119",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-25",
+      "rating": 5,
+      "review": "Really enjoyed the Samosa. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 119",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0081",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-24",
+      "rating": 3,
+      "review": "The food was fine and the wait was about 15 minutes.",
+      "source": "Google",
+      "author": "Customer 81",
+      "sentiment": "Neutral",
+      "primary_category": "Wait Time",
+      "aspects": [
+        {
+          "category": "Wait Time",
+          "score": 0.75,
+          "hits": [
+            "wait",
+            "minutes"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0085",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-23",
+      "rating": 5,
+      "review": "Really enjoyed the Tandoori Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 85",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0127",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-23",
+      "rating": 5,
+      "review": "The Paneer Tikka was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 127",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0132",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-22",
+      "rating": 4,
+      "review": "Good food overall. The Samosa was the highlight.",
+      "source": "Google",
+      "author": "Customer 132",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0034",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-19",
+      "rating": 2,
+      "review": "Food was decent but service was very slow during dinner.",
+      "source": "Google",
+      "author": "Customer 34",
+      "sentiment": "Negative",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "slow"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0056",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-19",
+      "rating": 2,
+      "review": "The Butter Chicken tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 56",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0077",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-19",
+      "rating": 4,
+      "review": "Good food overall. The Hakka Noodles was the highlight.",
+      "source": "Google",
+      "author": "Customer 77",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0060",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-18",
+      "rating": 4,
+      "review": "Good food overall. The Dal Makhani was the highlight.",
+      "source": "Google",
+      "author": "Customer 60",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0098",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-18",
+      "rating": 2,
+      "review": "The Chicken Biryani tasted bland and the portion was too small for the price.",
+      "source": "Google",
+      "author": "Customer 98",
+      "sentiment": "Negative",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "bland"
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "price"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0049",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-17",
+      "rating": 3,
+      "review": "Decent meal, but nothing stood out.",
+      "source": "Google",
+      "author": "Customer 49",
+      "sentiment": "Neutral",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0051",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-16",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Chicken Biryani.",
+      "source": "Google",
+      "author": "Customer 51",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0028",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-15",
+      "rating": 5,
+      "review": "Really enjoyed the Samosa. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 28",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0105",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-15",
+      "rating": 5,
+      "review": "The Chole Bhature was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 105",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chole Bhature"
+      ]
+    },
+    {
+      "review_id": "demo-0123",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-15",
+      "rating": 3,
+      "review": "The Hakka Noodles was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 123",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Hakka Noodles"
+      ]
+    },
+    {
+      "review_id": "demo-0036",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-14",
+      "rating": 2,
+      "review": "Food was decent but service was very slow during dinner.",
+      "source": "Google",
+      "author": "Customer 36",
+      "sentiment": "Negative",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "slow"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0043",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-14",
+      "rating": 5,
+      "review": "Really enjoyed the Chicken Biryani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 43",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0112",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-13",
+      "rating": 3,
+      "review": "The Butter Chicken was okay. Service was average.",
+      "source": "Google",
+      "author": "Customer 112",
+      "sentiment": "Neutral",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0117",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-13",
+      "rating": 2,
+      "review": "Restaurant was crowded and the tables were not clean.",
+      "source": "Google",
+      "author": "Customer 117",
+      "sentiment": "Negative",
+      "primary_category": "Cleanliness",
+      "aspects": [
+        {
+          "category": "Cleanliness",
+          "score": 0.75,
+          "hits": [
+            "clean",
+            "table"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0035",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-12",
+      "rating": 5,
+      "review": "Really enjoyed the Paneer Tikka. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 35",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0037",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-12",
+      "rating": 4,
+      "review": "Nice atmosphere and the Tandoori Chicken tasted fresh.",
+      "source": "Google",
+      "author": "Customer 37",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Tandoori Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0120",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-12",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 120",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0006",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-11",
+      "rating": 4,
+      "review": "Nice atmosphere and the Butter Chicken tasted fresh.",
+      "source": "Google",
+      "author": "Customer 6",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.65,
+          "hits": [
+            "fresh"
+          ]
+        },
+        {
+          "category": "Ambience",
+          "score": 0.65,
+          "hits": [
+            "atmosphere"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    },
+    {
+      "review_id": "demo-0068",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-11",
+      "rating": 2,
+      "review": "Food was decent but service was very slow during dinner.",
+      "source": "Google",
+      "author": "Customer 68",
+      "sentiment": "Negative",
+      "primary_category": "Service",
+      "aspects": [
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "slow"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0100",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-11",
+      "rating": 4,
+      "review": "Good food overall. The Paneer Tikka was the highlight.",
+      "source": "Google",
+      "author": "Customer 100",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0020",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-06",
+      "rating": 5,
+      "review": "Fast service, clean dining room and tasty Momos.",
+      "source": "Google",
+      "author": "Customer 20",
+      "sentiment": "Positive",
+      "primary_category": "Taste",
+      "aspects": [
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "tasty"
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.65,
+          "hits": [
+            "service"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.65,
+          "hits": [
+            "clean"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Momos"
+      ]
+    },
+    {
+      "review_id": "demo-0065",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-06",
+      "rating": 5,
+      "review": "Really enjoyed the Samosa. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 65",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Samosa"
+      ]
+    },
+    {
+      "review_id": "demo-0074",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-06",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "source": "Google",
+      "author": "Customer 74",
+      "sentiment": "Negative",
+      "primary_category": "Delivery / Takeout",
+      "aspects": [
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.75,
+          "hits": [
+            "takeout",
+            "packaging"
+          ]
+        },
+        {
+          "category": "Wait Time",
+          "score": 0.65,
+          "hits": [
+            "late"
+          ]
+        }
+      ],
+      "menu_items": []
+    },
+    {
+      "review_id": "demo-0135",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-06",
+      "rating": 5,
+      "review": "Really enjoyed the Chicken Biryani. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 135",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Chicken Biryani"
+      ]
+    },
+    {
+      "review_id": "demo-0096",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-05",
+      "rating": 4,
+      "review": "Good food overall. The Paneer Tikka was the highlight.",
+      "source": "Google",
+      "author": "Customer 96",
+      "sentiment": "Positive",
+      "primary_category": "Food Quality",
+      "aspects": [
+        {
+          "category": "Food Quality",
+          "score": 0.4,
+          "hits": []
+        }
+      ],
+      "menu_items": [
+        "Paneer Tikka"
+      ]
+    },
+    {
+      "review_id": "demo-0136",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-05",
+      "rating": 5,
+      "review": "The Dal Makhani was delicious and the staff were very friendly.",
+      "source": "Google",
+      "author": "Customer 136",
+      "sentiment": "Positive",
+      "primary_category": "Staff Behaviour",
+      "aspects": [
+        {
+          "category": "Staff Behaviour",
+          "score": 0.75,
+          "hits": [
+            "staff",
+            "friendly"
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.65,
+          "hits": [
+            "delicious"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Dal Makhani"
+      ]
+    },
+    {
+      "review_id": "demo-0113",
+      "business": "Demo GTA Restaurant",
+      "location": "Downtown Toronto",
+      "review_date": "2026-06-03",
+      "rating": 5,
+      "review": "Really enjoyed the Butter Chicken. Good portions and great value.",
+      "source": "Google",
+      "author": "Customer 113",
+      "sentiment": "Positive",
+      "primary_category": "Portion Size",
+      "aspects": [
+        {
+          "category": "Portion Size",
+          "score": 0.65,
+          "hits": [
+            "portion"
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.65,
+          "hits": [
+            "value"
+          ]
+        }
+      ],
+      "menu_items": [
+        "Butter Chicken"
+      ]
+    }
+  ]
+}
