@@ -1,0 +1,10 @@
+{
+  "business_name": "Demo GTA Restaurant",
+  "location_name": "Downtown Toronto",
+  "lookback_days": 90,
+  "alert": {
+    "min_mentions": 4,
+    "increase_ratio": 1.5
+  },
+  "data_source": "csv"
+}
