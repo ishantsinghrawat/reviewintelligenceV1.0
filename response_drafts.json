@@ -5,6 +5,7 @@
     "rating": 2,
     "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -13,6 +14,7 @@
     "rating": 2,
     "review": "We waited 45 minutes for the Tandoori Chicken. Food was good but service was painfully slow.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -21,6 +23,7 @@
     "rating": 2,
     "review": "The Samosa was tasty but the wait time was unacceptable.",
     "primary_category": "Taste",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -29,6 +32,7 @@
     "rating": 2,
     "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -37,6 +41,7 @@
     "rating": 2,
     "review": "We waited 45 minutes for the Paneer Tikka. Food was good but service was painfully slow.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -45,6 +50,7 @@
     "rating": 2,
     "review": "We waited 45 minutes for the Momos. Food was good but service was painfully slow.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -53,6 +59,7 @@
     "rating": 2,
     "review": "Dinner service was very slow. Waited over 35 minutes before getting the Paneer Tikka.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -61,6 +68,7 @@
     "rating": 2,
     "review": "Dinner service was very slow. Waited over 35 minutes before getting the Dal Makhani.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -69,6 +77,7 @@
     "rating": 2,
     "review": "The Dal Makhani was tasty but the wait time was unacceptable.",
     "primary_category": "Taste",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -77,6 +86,7 @@
     "rating": 2,
     "review": "The Chicken Biryani was tasty but the wait time was unacceptable.",
     "primary_category": "Taste",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -85,6 +95,7 @@
     "rating": 2,
     "review": "Dinner service was very slow. Waited over 35 minutes before getting the Tandoori Chicken.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -93,6 +104,7 @@
     "rating": 2,
     "review": "We waited 45 minutes for the Dal Makhani. Food was good but service was painfully slow.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -101,6 +113,7 @@
     "rating": 2,
     "review": "Restaurant was crowded and the tables were not clean.",
     "primary_category": "Cleanliness",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with cleanliness did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -109,6 +122,7 @@
     "rating": 2,
     "review": "The Naan was cold and we waited 40 minutes for our food.",
     "primary_category": "Food Quality",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -117,6 +131,7 @@
     "rating": 2,
     "review": "Takeout was late and the packaging leaked.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -125,6 +140,7 @@
     "rating": 1,
     "review": "The staff seemed rude and our order had a missing item.",
     "primary_category": "Staff Behaviour",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -133,6 +149,7 @@
     "rating": 2,
     "review": "Takeout was late and the packaging leaked.",
     "primary_category": "Wait Time",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -141,6 +158,7 @@
     "rating": 1,
     "review": "The staff seemed rude and our order had a missing item.",
     "primary_category": "Staff Behaviour",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
@@ -149,6 +167,7 @@
     "rating": 1,
     "review": "The staff seemed rude and our order had a missing item.",
     "primary_category": "Staff Behaviour",
+    "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   }
 ]
