@@ -1,5 +1,6 @@
 {
-  "generated_at": "2026-09-01T12:57:04",
+  "generated_at": "2026-09-01T19:58:48",
+  "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "business": {
     "name": "Demo GTA Restaurant",
@@ -15,125 +16,164 @@
     "average_rating": 3.44,
     "positive_pct": 56.0,
     "negative_pct": 38.0,
-    "alerts": 3
+    "alerts": 2
   },
   "category_stats": [
     {
       "category": "Food Quality",
       "mentions": 15,
-      "negative_mentions": 1,
-      "positive_mentions": 12,
+      "positive": 12,
+      "neutral": 2,
+      "negative": 1,
       "negative_rate": 0.067,
-      "prior_negative_mentions": 0,
-      "change_ratio": null
+      "positive_rate": 0.8,
+      "prior_mentions": 9,
+      "prior_negative": 0,
+      "negative_change": 1
     },
     {
       "category": "Taste",
       "mentions": 11,
-      "negative_mentions": 3,
-      "positive_mentions": 8,
-      "negative_rate": 0.273,
-      "prior_negative_mentions": 3,
-      "change_ratio": 1.0
+      "positive": 11,
+      "neutral": 0,
+      "negative": 0,
+      "negative_rate": 0.0,
+      "positive_rate": 1.0,
+      "prior_mentions": 11,
+      "prior_negative": 0,
+      "negative_change": 0
     },
     {
       "category": "Portion Size",
-      "mentions": 8,
-      "negative_mentions": 0,
-      "positive_mentions": 8,
-      "negative_rate": 0.0,
-      "prior_negative_mentions": 3,
-      "change_ratio": 0.0
+      "mentions": 0,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "negative_rate": 0,
+      "positive_rate": 0,
+      "prior_mentions": 0,
+      "prior_negative": 0,
+      "negative_change": 0
     },
     {
       "category": "Price / Value",
       "mentions": 8,
-      "negative_mentions": 0,
-      "positive_mentions": 8,
+      "positive": 8,
+      "neutral": 0,
+      "negative": 0,
       "negative_rate": 0.0,
-      "prior_negative_mentions": 3,
-      "change_ratio": 0.0
+      "positive_rate": 1.0,
+      "prior_mentions": 12,
+      "prior_negative": 3,
+      "negative_change": -3
     },
     {
       "category": "Service",
       "mentions": 16,
-      "negative_mentions": 9,
-      "positive_mentions": 6,
-      "negative_rate": 0.562,
-      "prior_negative_mentions": 2,
-      "change_ratio": 4.5
+      "positive": 10,
+      "neutral": 1,
+      "negative": 5,
+      "negative_rate": 0.312,
+      "positive_rate": 0.625,
+      "prior_mentions": 11,
+      "prior_negative": 2,
+      "negative_change": 3
     },
     {
       "category": "Staff Behaviour",
       "mentions": 5,
-      "negative_mentions": 3,
-      "positive_mentions": 2,
+      "positive": 2,
+      "neutral": 0,
+      "negative": 3,
       "negative_rate": 0.6,
-      "prior_negative_mentions": 1,
-      "change_ratio": 3.0
+      "positive_rate": 0.4,
+      "prior_mentions": 9,
+      "prior_negative": 1,
+      "negative_change": 2
     },
     {
       "category": "Wait Time",
       "mentions": 15,
-      "negative_mentions": 15,
-      "positive_mentions": 0,
-      "negative_rate": 1.0,
-      "prior_negative_mentions": 5,
-      "change_ratio": 3.0
+      "positive": 3,
+      "neutral": 0,
+      "negative": 12,
+      "negative_rate": 0.8,
+      "positive_rate": 0.2,
+      "prior_mentions": 6,
+      "prior_negative": 5,
+      "negative_change": 7
     },
     {
       "category": "Order Accuracy",
-      "mentions": 3,
-      "negative_mentions": 3,
-      "positive_mentions": 0,
-      "negative_rate": 1.0,
-      "prior_negative_mentions": 1,
-      "change_ratio": 3.0
+      "mentions": 0,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
+      "negative_rate": 0,
+      "positive_rate": 0,
+      "prior_mentions": 0,
+      "prior_negative": 0,
+      "negative_change": 0
     },
     {
       "category": "Cleanliness",
-      "mentions": 10,
-      "negative_mentions": 4,
-      "positive_mentions": 6,
-      "negative_rate": 0.4,
-      "prior_negative_mentions": 1,
-      "change_ratio": 4.0
+      "mentions": 4,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 4,
+      "negative_rate": 1.0,
+      "positive_rate": 0.0,
+      "prior_mentions": 1,
+      "prior_negative": 1,
+      "negative_change": 3
     },
     {
       "category": "Ambience",
       "mentions": 6,
-      "negative_mentions": 0,
-      "positive_mentions": 6,
+      "positive": 6,
+      "neutral": 0,
+      "negative": 0,
       "negative_rate": 0.0,
-      "prior_negative_mentions": 0,
-      "change_ratio": 0
+      "positive_rate": 1.0,
+      "prior_mentions": 4,
+      "prior_negative": 0,
+      "negative_change": 0
     },
     {
       "category": "Delivery / Takeout",
       "mentions": 2,
-      "negative_mentions": 2,
-      "positive_mentions": 0,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2,
       "negative_rate": 1.0,
-      "prior_negative_mentions": 3,
-      "change_ratio": 0.67
+      "positive_rate": 0.0,
+      "prior_mentions": 3,
+      "prior_negative": 3,
+      "negative_change": -1
     },
     {
       "category": "Parking / Accessibility",
       "mentions": 0,
-      "negative_mentions": 0,
-      "positive_mentions": 0,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
       "negative_rate": 0,
-      "prior_negative_mentions": 0,
-      "change_ratio": 0
+      "positive_rate": 0,
+      "prior_mentions": 0,
+      "prior_negative": 0,
+      "negative_change": 0
     },
     {
       "category": "Menu Availability",
       "mentions": 0,
-      "negative_mentions": 0,
-      "positive_mentions": 0,
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0,
       "negative_rate": 0,
-      "prior_negative_mentions": 0,
-      "change_ratio": 0
+      "positive_rate": 0,
+      "prior_mentions": 0,
+      "prior_negative": 0,
+      "negative_change": 0
     }
   ],
   "menu_stats": [
@@ -142,6 +182,9 @@
       "mentions": 10,
       "positive": 7,
       "negative": 3,
+      "neutral": 0,
+      "positive_pct": 70.0,
+      "negative_pct": 30.0,
       "avg_rating": 3.9
     },
     {
@@ -149,6 +192,9 @@
       "mentions": 7,
       "positive": 4,
       "negative": 3,
+      "neutral": 0,
+      "positive_pct": 57.1,
+      "negative_pct": 42.9,
       "avg_rating": 3.57
     },
     {
@@ -156,6 +202,9 @@
       "mentions": 6,
       "positive": 4,
       "negative": 1,
+      "neutral": 1,
+      "positive_pct": 66.7,
+      "negative_pct": 16.7,
       "avg_rating": 3.83
     },
     {
@@ -163,6 +212,9 @@
       "mentions": 5,
       "positive": 3,
       "negative": 2,
+      "neutral": 0,
+      "positive_pct": 60.0,
+      "negative_pct": 40.0,
       "avg_rating": 3.4
     },
     {
@@ -170,27 +222,39 @@
       "mentions": 3,
       "positive": 3,
       "negative": 0,
+      "neutral": 0,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "avg_rating": 4.33
-    },
-    {
-      "item": "Paneer Tikka",
-      "mentions": 3,
-      "positive": 1,
-      "negative": 2,
-      "avg_rating": 3.0
     },
     {
       "item": "Chole Bhature",
       "mentions": 3,
       "positive": 3,
       "negative": 0,
+      "neutral": 0,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "avg_rating": 4.67
+    },
+    {
+      "item": "Paneer Tikka",
+      "mentions": 3,
+      "positive": 1,
+      "negative": 2,
+      "neutral": 0,
+      "positive_pct": 33.3,
+      "negative_pct": 66.7,
+      "avg_rating": 3.0
     },
     {
       "item": "Momos",
       "mentions": 2,
-      "positive": 1,
-      "negative": 1,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "avg_rating": 3.5
     },
     {
@@ -198,42 +262,66 @@
       "mentions": 2,
       "positive": 2,
       "negative": 0,
+      "neutral": 0,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "avg_rating": 4.0
     },
     {
       "item": "Samosa",
       "mentions": 1,
-      "positive": 0,
-      "negative": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0,
+      "positive_pct": 100.0,
+      "negative_pct": 0.0,
       "avg_rating": 2.0
+    }
+  ],
+  "monthly_trend": [
+    {
+      "month": "2026-06",
+      "reviews": 42,
+      "average_rating": 3.76,
+      "positive_pct": 64.3,
+      "negative_pct": 23.8
+    },
+    {
+      "month": "2026-07",
+      "reviews": 46,
+      "average_rating": 3.89,
+      "positive_pct": 60.9,
+      "negative_pct": 19.6
+    },
+    {
+      "month": "2026-08",
+      "reviews": 52,
+      "average_rating": 3.4,
+      "positive_pct": 55.8,
+      "negative_pct": 38.5
     }
   ],
   "alerts": [
     {
       "category": "Service",
-      "current_negative": 9,
-      "previous_negative": 2,
-      "increase_ratio": 4.5,
-      "severity": "High"
-    },
-    {
-      "category": "Wait Time",
-      "current_negative": 15,
-      "previous_negative": 5,
-      "increase_ratio": 3.0,
-      "severity": "High"
-    },
-    {
-      "category": "Cleanliness",
       "current_negative": 4,
       "previous_negative": 1,
       "increase_ratio": 4.0,
-      "severity": "High"
+      "severity": "High",
+      "window": "latest 7 days vs prior 7 days"
+    },
+    {
+      "category": "Wait Time",
+      "current_negative": 7,
+      "previous_negative": 2,
+      "increase_ratio": 3.5,
+      "severity": "High",
+      "window": "latest 7 days vs prior 7 days"
     }
   ],
   "brief": {
     "headline": "Customer feedback needs attention",
-    "summary": "50 reviews analyzed in the latest 30-day window with an average rating of 3.44.",
+    "summary": "50 reviews were analyzed in the latest 30-day window with an average rating of 3.44.",
     "top_concerns": [
       "Wait Time",
       "Service",
@@ -242,14 +330,168 @@
     "top_strengths": [
       "Food Quality",
       "Taste",
-      "Portion Size"
+      "Service"
     ],
     "recommended_actions": [
-      "Investigate wait time complaints; 15 negative mentions were detected.",
-      "Investigate service complaints; 9 negative mentions were detected.",
-      "Investigate cleanliness complaints; 4 negative mentions were detected."
+      "Review staffing and kitchen throughput during the busiest service periods.",
+      "Review service standards and identify when customer attention breaks down.",
+      "Increase front-of-house and washroom cleanliness checks during peak periods."
     ]
   },
+  "response_drafts": [
+    {
+      "review_id": "demo-0012",
+      "review_date": "2026-08-31",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0008",
+      "review_date": "2026-08-30",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Tandoori Chicken. Food was good but service was painfully slow.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0032",
+      "review_date": "2026-08-30",
+      "rating": 2,
+      "review": "The Samosa was tasty but the wait time was unacceptable.",
+      "primary_category": "Taste",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0044",
+      "review_date": "2026-08-29",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0078",
+      "review_date": "2026-08-29",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Paneer Tikka. Food was good but service was painfully slow.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0079",
+      "review_date": "2026-08-28",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Momos. Food was good but service was painfully slow.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0084",
+      "review_date": "2026-08-27",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Paneer Tikka.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0093",
+      "review_date": "2026-08-27",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Dal Makhani.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0018",
+      "review_date": "2026-08-25",
+      "rating": 2,
+      "review": "The Dal Makhani was tasty but the wait time was unacceptable.",
+      "primary_category": "Taste",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0080",
+      "review_date": "2026-08-25",
+      "rating": 2,
+      "review": "The Chicken Biryani was tasty but the wait time was unacceptable.",
+      "primary_category": "Taste",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0108",
+      "review_date": "2026-08-23",
+      "rating": 2,
+      "review": "Dinner service was very slow. Waited over 35 minutes before getting the Tandoori Chicken.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0131",
+      "review_date": "2026-08-22",
+      "rating": 2,
+      "review": "We waited 45 minutes for the Dal Makhani. Food was good but service was painfully slow.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0005",
+      "review_date": "2026-08-20",
+      "rating": 2,
+      "review": "Restaurant was crowded and the tables were not clean.",
+      "primary_category": "Cleanliness",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with cleanliness did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0022",
+      "review_date": "2026-08-14",
+      "rating": 2,
+      "review": "The Naan was cold and we waited 40 minutes for our food.",
+      "primary_category": "Food Quality",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0083",
+      "review_date": "2026-08-09",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0082",
+      "review_date": "2026-08-06",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "primary_category": "Staff Behaviour",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0102",
+      "review_date": "2026-08-05",
+      "rating": 2,
+      "review": "Takeout was late and the packaging leaked.",
+      "primary_category": "Wait Time",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0134",
+      "review_date": "2026-08-05",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "primary_category": "Staff Behaviour",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    },
+    {
+      "review_id": "demo-0114",
+      "review_date": "2026-08-02",
+      "rating": 1,
+      "review": "The staff seemed rude and our order had a missing item.",
+      "primary_category": "Staff Behaviour",
+      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    }
+  ],
   "reviews": [
     {
       "review_id": "demo-0012",
@@ -265,16 +507,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -298,16 +543,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -331,21 +579,27 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "wait"
           ]
         },
         {
           "category": "Cleanliness",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "table"
           ]
@@ -369,14 +623,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -400,16 +658,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -433,16 +694,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -466,16 +730,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -499,16 +766,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -532,16 +802,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -561,18 +834,13 @@
       "source": "Google",
       "author": "Customer 71",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -596,21 +864,27 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "wait"
           ]
         },
         {
           "category": "Cleanliness",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "table"
           ]
@@ -634,21 +908,27 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "wait"
           ]
         },
         {
           "category": "Cleanliness",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "table"
           ]
@@ -673,6 +953,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -690,18 +972,13 @@
       "source": "Google",
       "author": "Customer 17",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -725,23 +1002,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -763,16 +1037,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -796,14 +1073,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -827,16 +1108,19 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.8500000000000001,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes",
-            "slow"
+            "slow",
+            "wait"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
@@ -861,6 +1145,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -881,6 +1167,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -902,9 +1190,10 @@
       "aspects": [
         {
           "category": "Cleanliness",
-          "score": 0.75,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "clean",
             "table"
           ]
         }
@@ -921,18 +1210,13 @@
       "source": "Google",
       "author": "Customer 31",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -956,14 +1240,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -983,21 +1271,24 @@
       "source": "Google",
       "author": "Customer 62",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -1019,23 +1310,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -1057,14 +1345,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -1088,23 +1380,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -1126,23 +1415,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -1160,18 +1446,13 @@
       "source": "Google",
       "author": "Customer 72",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -1191,18 +1472,13 @@
       "source": "Google",
       "author": "Customer 107",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -1227,6 +1503,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -1248,14 +1526,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -1275,21 +1557,24 @@
       "source": "Google",
       "author": "Customer 87",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -1307,21 +1592,24 @@
       "source": "Google",
       "author": "Customer 22",
       "sentiment": "Negative",
-      "primary_category": "Wait Time",
+      "primary_category": "Food Quality",
       "aspects": [
         {
-          "category": "Wait Time",
-          "score": 0.75,
+          "category": "Food Quality",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "wait",
-            "minutes"
+            "cold"
           ]
         },
         {
-          "category": "Food Quality",
-          "score": 0.65,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "cold"
+            "wait"
           ]
         }
       ],
@@ -1339,21 +1627,24 @@
       "source": "Google",
       "author": "Customer 83",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -1374,6 +1665,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -1391,18 +1684,13 @@
       "source": "Google",
       "author": "Customer 4",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -1426,14 +1714,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -1453,18 +1745,13 @@
       "source": "Google",
       "author": "Customer 24",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -1488,17 +1775,12 @@
       "aspects": [
         {
           "category": "Staff Behaviour",
-          "score": 0.75,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "rude"
-          ]
-        },
-        {
-          "category": "Order Accuracy",
-          "score": 0.65,
-          "hits": [
-            "missing item"
+            "rude",
+            "staff"
           ]
         }
       ],
@@ -1518,23 +1800,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -1552,21 +1831,24 @@
       "source": "Google",
       "author": "Customer 102",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -1586,17 +1868,12 @@
       "aspects": [
         {
           "category": "Staff Behaviour",
-          "score": 0.75,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "rude"
-          ]
-        },
-        {
-          "category": "Order Accuracy",
-          "score": 0.65,
-          "hits": [
-            "missing item"
+            "rude",
+            "staff"
           ]
         }
       ],
@@ -1617,6 +1894,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -1639,6 +1918,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -1660,23 +1941,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -1694,18 +1972,13 @@
       "source": "Google",
       "author": "Customer 121",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -1729,7 +2002,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -1753,17 +2028,12 @@
       "aspects": [
         {
           "category": "Staff Behaviour",
-          "score": 0.75,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "rude"
-          ]
-        },
-        {
-          "category": "Order Accuracy",
-          "score": 0.65,
-          "hits": [
-            "missing item"
+            "rude",
+            "staff"
           ]
         }
       ],
@@ -1784,6 +2054,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -1804,6 +2076,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -1825,17 +2099,12 @@
       "aspects": [
         {
           "category": "Staff Behaviour",
-          "score": 0.75,
+          "score": 0.72,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "rude"
-          ]
-        },
-        {
-          "category": "Order Accuracy",
-          "score": 0.65,
-          "hits": [
-            "missing item"
+            "rude",
+            "staff"
           ]
         }
       ],
@@ -1855,23 +2124,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -1889,21 +2155,24 @@
       "source": "Google",
       "author": "Customer 14",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -1919,18 +2188,13 @@
       "source": "Google",
       "author": "Customer 64",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -1950,21 +2214,24 @@
       "source": "Google",
       "author": "Customer 101",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -1980,21 +2247,24 @@
       "source": "Google",
       "author": "Customer 92",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -2012,18 +2282,13 @@
       "source": "Google",
       "author": "Customer 109",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2047,23 +2312,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -2085,7 +2347,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -2105,21 +2369,24 @@
       "source": "Google",
       "author": "Customer 15",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -2141,14 +2408,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -2172,7 +2443,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -2192,18 +2465,13 @@
       "source": "Google",
       "author": "Customer 10",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2227,14 +2495,18 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "slow"
           ]
@@ -2257,6 +2529,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -2278,7 +2552,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -2298,21 +2574,24 @@
       "source": "Google",
       "author": "Customer 30",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -2330,18 +2609,13 @@
       "source": "Google",
       "author": "Customer 48",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2365,10 +2639,11 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.75,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "wait",
-            "minutes"
+            "wait"
           ]
         }
       ],
@@ -2384,18 +2659,13 @@
       "source": "Google",
       "author": "Customer 66",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2415,18 +2685,13 @@
       "source": "Google",
       "author": "Customer 89",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2451,6 +2716,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -2470,7 +2737,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -2494,7 +2763,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -2514,21 +2785,24 @@
       "source": "Google",
       "author": "Customer 115",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -2550,23 +2824,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -2588,9 +2859,10 @@
       "aspects": [
         {
           "category": "Cleanliness",
-          "score": 0.75,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "clean",
             "table"
           ]
         }
@@ -2607,18 +2879,13 @@
       "source": "Google",
       "author": "Customer 140",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2638,18 +2905,13 @@
       "source": "Google",
       "author": "Customer 46",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2669,21 +2931,24 @@
       "source": "Google",
       "author": "Customer 57",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -2706,6 +2971,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -2727,14 +2994,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -2754,18 +3025,13 @@
       "source": "Google",
       "author": "Customer 19",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -2789,14 +3055,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -2816,25 +3086,13 @@
       "source": "Google",
       "author": "Customer 16",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -2858,7 +3116,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -2878,25 +3138,13 @@
       "source": "Google",
       "author": "Customer 73",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -2916,21 +3164,24 @@
       "source": "Google",
       "author": "Customer 104",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -2952,14 +3203,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -2979,25 +3234,13 @@
       "source": "Google",
       "author": "Customer 1",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -3021,14 +3264,18 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "slow"
           ]
@@ -3046,21 +3293,24 @@
       "source": "Google",
       "author": "Customer 7",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -3076,21 +3326,24 @@
       "source": "Google",
       "author": "Customer 53",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3108,21 +3361,24 @@
       "source": "Google",
       "author": "Customer 75",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3145,6 +3401,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3160,21 +3418,24 @@
       "source": "Google",
       "author": "Customer 38",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3192,21 +3453,24 @@
       "source": "Google",
       "author": "Customer 133",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3224,21 +3488,24 @@
       "source": "Google",
       "author": "Customer 41",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3256,25 +3523,13 @@
       "source": "Google",
       "author": "Customer 63",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -3299,6 +3554,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3316,25 +3573,13 @@
       "source": "Google",
       "author": "Customer 11",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -3359,6 +3604,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3379,6 +3626,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3401,6 +3650,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3418,18 +3669,13 @@
       "source": "Google",
       "author": "Customer 103",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -3453,14 +3699,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -3484,14 +3734,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -3511,18 +3765,13 @@
       "source": "Google",
       "author": "Customer 119",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -3546,10 +3795,11 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.75,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "wait",
-            "minutes"
+            "wait"
           ]
         }
       ],
@@ -3565,18 +3815,13 @@
       "source": "Google",
       "author": "Customer 85",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -3596,21 +3841,24 @@
       "source": "Google",
       "author": "Customer 127",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3633,6 +3881,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3654,14 +3904,18 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "slow"
           ]
@@ -3679,25 +3933,13 @@
       "source": "Google",
       "author": "Customer 56",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -3722,6 +3964,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3744,6 +3988,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3761,25 +4007,13 @@
       "source": "Google",
       "author": "Customer 98",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.65,
-          "hits": [
-            "bland"
-          ]
-        },
-        {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
             "price"
           ]
@@ -3804,6 +4038,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -3823,23 +4059,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -3857,18 +4090,13 @@
       "source": "Google",
       "author": "Customer 28",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -3888,21 +4116,24 @@
       "source": "Google",
       "author": "Customer 105",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -3924,7 +4155,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -3948,14 +4181,18 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "slow"
           ]
@@ -3973,18 +4210,13 @@
       "source": "Google",
       "author": "Customer 43",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -4008,7 +4240,9 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
           ]
@@ -4032,9 +4266,10 @@
       "aspects": [
         {
           "category": "Cleanliness",
-          "score": 0.75,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "clean",
             "table"
           ]
         }
@@ -4051,18 +4286,13 @@
       "source": "Google",
       "author": "Customer 35",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -4086,14 +4316,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -4113,21 +4347,24 @@
       "source": "Google",
       "author": "Customer 120",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -4147,14 +4384,18 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "fresh"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "atmosphere"
           ]
@@ -4178,14 +4419,18 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "service"
           ]
         },
         {
           "category": "Wait Time",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
             "slow"
           ]
@@ -4208,6 +4453,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -4229,23 +4476,20 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "tasty"
           ]
         },
         {
           "category": "Service",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.65,
-          "hits": [
-            "clean"
           ]
         }
       ],
@@ -4263,18 +4507,13 @@
       "source": "Google",
       "author": "Customer 65",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -4294,21 +4533,24 @@
       "source": "Google",
       "author": "Customer 74",
       "sentiment": "Negative",
-      "primary_category": "Delivery / Takeout",
+      "primary_category": "Wait Time",
       "aspects": [
         {
-          "category": "Delivery / Takeout",
-          "score": 0.75,
+          "category": "Wait Time",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "takeout",
-            "packaging"
+            "late"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.65,
+          "category": "Delivery / Takeout",
+          "score": 0.66,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "late"
+            "takeout"
           ]
         }
       ],
@@ -4324,18 +4566,13 @@
       "source": "Google",
       "author": "Customer 135",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]
@@ -4360,6 +4597,8 @@
         {
           "category": "Food Quality",
           "score": 0.4,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.4,
           "hits": []
         }
       ],
@@ -4377,21 +4616,24 @@
       "source": "Google",
       "author": "Customer 136",
       "sentiment": "Positive",
-      "primary_category": "Staff Behaviour",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Staff Behaviour",
-          "score": 0.75,
+          "category": "Taste",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
-            "staff",
-            "friendly"
+            "delicious"
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.65,
+          "category": "Staff Behaviour",
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.48,
           "hits": [
-            "delicious"
+            "staff"
           ]
         }
       ],
@@ -4409,18 +4651,13 @@
       "source": "Google",
       "author": "Customer 113",
       "sentiment": "Positive",
-      "primary_category": "Portion Size",
+      "primary_category": "Price / Value",
       "aspects": [
         {
-          "category": "Portion Size",
-          "score": 0.65,
-          "hits": [
-            "portion"
-          ]
-        },
-        {
           "category": "Price / Value",
-          "score": 0.65,
+          "score": 0.66,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.66,
           "hits": [
             "value"
           ]

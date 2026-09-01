@@ -7,10 +7,10 @@ Window: 2026-08-02 to 2026-08-31
 - Average rating: **3.44 / 5**
 - Positive: **56.0%**
 - Negative: **38.0%**
-- Active alerts: **3**
+- Active alerts: **2**
 
 ## Customer feedback needs attention
-50 reviews analyzed in the latest 30-day window with an average rating of 3.44.
+50 reviews were analyzed in the latest 30-day window with an average rating of 3.44.
 
 ## Top concerns
 - Wait Time
@@ -20,9 +20,9 @@ Window: 2026-08-02 to 2026-08-31
 ## Top strengths
 - Food Quality
 - Taste
-- Portion Size
+- Service
 
 ## Recommended actions
-- Investigate wait time complaints; 15 negative mentions were detected.
-- Investigate service complaints; 9 negative mentions were detected.
-- Investigate cleanliness complaints; 4 negative mentions were detected.
+- Review staffing and kitchen throughput during the busiest service periods.
+- Review service standards and identify when customer attention breaks down.
+- Increase front-of-house and washroom cleanliness checks during peak periods.

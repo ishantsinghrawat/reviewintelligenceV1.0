@@ -1,23 +1,18 @@
 [
   {
     "category": "Service",
-    "current_negative": 9,
-    "previous_negative": 2,
-    "increase_ratio": 4.5,
-    "severity": "High"
-  },
-  {
-    "category": "Wait Time",
-    "current_negative": 15,
-    "previous_negative": 5,
-    "increase_ratio": 3.0,
-    "severity": "High"
-  },
-  {
-    "category": "Cleanliness",
     "current_negative": 4,
     "previous_negative": 1,
     "increase_ratio": 4.0,
-    "severity": "High"
+    "severity": "High",
+    "window": "latest 7 days vs prior 7 days"
+  },
+  {
+    "category": "Wait Time",
+    "current_negative": 7,
+    "previous_negative": 2,
+    "increase_ratio": 3.5,
+    "severity": "High",
+    "window": "latest 7 days vs prior 7 days"
   }
 ]
