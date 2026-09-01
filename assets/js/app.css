@@ -1,0 +1,57 @@
+:root{--bg:#f5f6f8;--card:#fff;--ink:#16181d;--muted:#6b7280;--line:#e5e7eb;--soft:#f9fafb}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif}header{background:#111827;color:#fff;padding:20px 4vw;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}header h1{margin:0;font-size:20px}.header-sub{font-size:12px;color:#9ca3af;margin-top:4px}nav a{color:#d1d5db;text-decoration:none;margin-right:16px;font-size:14px}nav a.active,nav a:hover{color:#fff}main{max-width:1200px;margin:28px auto;padding:0 20px}.hero{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap}.hero h1{margin:4px 0 6px}.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);font-weight:700}.sub,.meta{color:var(--muted)}.mode-badge{border-radius:999px;padding:7px 10px;font-size:11px;font-weight:750;letter-spacing:.08em;border:1px solid var(--line)}.mode-badge.demo{background:#fff7ed}.mode-badge.live{background:#ecfdf5}.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}.section{margin-top:24px}.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 1px 2px rgba(0,0,0,.03)}.metric .k{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}.metric .v{font-size:28px;font-weight:780;margin-top:8px}.metric-note{font-size:11px;color:var(--muted);margin-top:4px}.two{display:grid;grid-template-columns:1.15fr .85fr;gap:18px}.section-title-row,.alert-top{display:flex;justify-content:space-between;align-items:center;gap:12px}.section-title-row a,.alert-box a,td a{color:var(--ink);font-weight:650;text-decoration:none}table{width:100%;border-collapse:collapse}th,td{text-align:left;border-bottom:1px solid var(--line);padding:10px 8px;font-size:14px}th{color:var(--muted);font-size:12px}.brief-headline{font-size:20px;font-weight:750;margin-bottom:10px}.brief-label{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:750;margin:16px 0 8px}.chip-row{display:flex;gap:6px;flex-wrap:wrap}.chip-row span,.chips span{border:1px solid var(--line);border-radius:999px;padding:4px 8px;font-size:11px}.alert-box{border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:10px}.mini-bar-row{display:grid;grid-template-columns:145px 1fr 36px;gap:10px;align-items:center;margin:10px 0;font-size:12px}.mini-bar{height:8px;background:#eef0f3;border-radius:999px;overflow:hidden}.mini-bar div{height:100%;background:#111827}.filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px}.filters select,.filters input{padding:10px 12px;border:1px solid var(--line);border-radius:9px;background:#fff}.response-card{padding:18px 0;border-bottom:1px solid var(--line)}.review-quote{background:var(--soft);border-radius:10px;padding:12px;margin:8px 0 12px}.response-card label{display:block;font-size:12px;font-weight:700;margin-bottom:6px}.response-card textarea{width:100%;min-height:110px;resize:vertical;border:1px solid var(--line);border-radius:10px;padding:12px;margin-bottom:8px;font:inherit}button{padding:10px 12px;border:0;border-radius:9px;background:#111827;color:#fff;cursor:pointer}@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.two{grid-template-columns:1fr}}@media(max-width:560px){.grid{grid-template-columns:1fr}.mini-bar-row{grid-template-columns:110px 1fr 30px}}
+
+/* ==========================================================
+   V1.5 Direct Google Review Link
+   ========================================================== */
+
+.response-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.review-link-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: #fff;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 650;
+  line-height: 1;
+}
+
+.review-link-btn:hover {
+  background: var(--soft);
+}
+
+.no-review-link {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 40px;
+}
+
+@media (max-width: 560px) {
+  .response-actions {
+    align-items: stretch;
+  }
+
+  .review-link-btn {
+    width: 100%;
+  }
+
+  .response-actions button {
+    width: 100%;
+  }
+
+  .no-review-link {
+    line-height: 1.4;
+  }
+}
