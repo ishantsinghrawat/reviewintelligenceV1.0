@@ -1,6 +1,6 @@
 # Weekly Restaurant Customer Intelligence
 
-**Demo GTA Restaurant — Downtown Toronto**
+**Demo GTA Restaurant – Downtown Toronto**
 Window: 2026-08-02 to 2026-08-31
 
 - Reviews: **50**

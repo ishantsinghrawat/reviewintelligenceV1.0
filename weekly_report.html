@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Weekly Report · Restaurant Review Intelligence</title>
+  <link rel="stylesheet" href="assets/css/app.css?v=1.6">
+</head>
+<body>
+<header>
+  <div>
+    <h1>Restaurant Review Intelligence</h1>
+    <div class="header-sub">Customer feedback → operational action</div>
+  </div>
+  <nav>
+    <a href="index.html">Overview</a>
+    <a href="reviews.html">Review Explorer</a>
+    <a href="responses.html">Response Assistant</a>
+    <a class="active" href="weekly_report.html">Weekly Report</a>
+  </nav>
+</header>
+
+<main>
+  <div class="hero">
+    <div>
+      <div class="eyebrow">Weekly intelligence report</div>
+      <h1>Demo GTA Restaurant</h1>
+      <div class="sub">Downtown Toronto · 2026-08-02 to 2026-08-31</div>
+    </div>
+    <div class="mode-badge demo">DEMO DATA</div>
+  </div>
+
+  <div class="grid section">
+    
+      <div class="card metric">
+        <div class="k">Reviews</div>
+        <div class="v">50</div>
+        <div class="metric-note">latest 30 days</div>
+      </div>
+    
+    
+      <div class="card metric">
+        <div class="k">Avg rating</div>
+        <div class="v">⭐ 3.44</div>
+        <div class="metric-note">out of 5</div>
+      </div>
+    
+    
+      <div class="card metric">
+        <div class="k">Positive</div>
+        <div class="v">56.0%</div>
+        <div class="metric-note">4–5 star reviews</div>
+      </div>
+    
+    
+      <div class="card metric">
+        <div class="k">Negative</div>
+        <div class="v">38.0%</div>
+        <div class="metric-note">1–2 star reviews</div>
+      </div>
+    
+    
+      <div class="card metric">
+        <div class="k">Alerts</div>
+        <div class="v">2</div>
+        <div class="metric-note">latest 7-day checks</div>
+      </div>
+    
+  </div>
+
+  <div class="two section">
+    <section class="card">
+      <div class="eyebrow">Executive summary</div>
+      <h2>Customer feedback needs attention</h2>
+      <p>50 reviews were analyzed in the latest 30-day window with an average rating of 3.44.</p>
+
+      <div class="brief-label">Top concerns</div>
+      <div class="chip-row"><span>Wait Time</span><span>Service</span><span>Cleanliness</span></div>
+
+      <div class="brief-label">Top strengths</div>
+      <div class="chip-row"><span>Food Quality</span><span>Taste</span><span>Service</span></div>
+
+      <div class="brief-label">Recommended actions</div>
+      <ol><li>Review staffing and kitchen throughput during the busiest service periods.</li><li>Review service standards and identify when customer attention breaks down.</li><li>Increase front-of-house and washroom cleanliness checks during peak periods.</li></ol>
+    </section>
+
+    <section class="card">
+      <h2>Active alerts</h2>
+      
+              <div class="alert-box">
+                <div class="alert-top">
+                  <strong>Service</strong>
+                  <span>High</span>
+                </div>
+                <p>4 negative mentions in the latest 7 days vs
+                   1 in the prior 7 days.</p>
+              </div>
+            
+              <div class="alert-box">
+                <div class="alert-top">
+                  <strong>Wait Time</strong>
+                  <span>High</span>
+                </div>
+                <p>7 negative mentions in the latest 7 days vs
+                   2 in the prior 7 days.</p>
+              </div>
+            
+    </section>
+  </div>
+
+  <section class="card section">
+    <h2>Highest-impact issues</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Issue</th><th>Mentions</th><th>Negative</th><th>Negative rate</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Wait Time</td>
+            <td>15</td>
+            <td>12</td>
+            <td>80%</td>
+          </tr>
+        
+          <tr>
+            <td>Service</td>
+            <td>16</td>
+            <td>5</td>
+            <td>31%</td>
+          </tr>
+        
+          <tr>
+            <td>Cleanliness</td>
+            <td>4</td>
+            <td>4</td>
+            <td>100%</td>
+          </tr>
+        
+          <tr>
+            <td>Staff Behaviour</td>
+            <td>5</td>
+            <td>3</td>
+            <td>60%</td>
+          </tr>
+        
+          <tr>
+            <td>Delivery / Takeout</td>
+            <td>2</td>
+            <td>2</td>
+            <td>100%</td>
+          </tr>
+        
+          <tr>
+            <td>Food Quality</td>
+            <td>15</td>
+            <td>1</td>
+            <td>7%</td>
+          </tr>
+        
+          <tr>
+            <td>Taste</td>
+            <td>11</td>
+            <td>0</td>
+            <td>0%</td>
+          </tr>
+        
+          <tr>
+            <td>Price / Value</td>
+            <td>8</td>
+            <td>0</td>
+            <td>0%</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="card section">
+    <h2>Menu intelligence</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Dish</th><th>Mentions</th><th>Positive</th><th>Negative</th><th>Avg rating</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Dal Makhani</td>
+            <td>10</td>
+            <td>70.0%</td>
+            <td>30.0%</td>
+            <td>3.9</td>
+          </tr>
+        
+          <tr>
+            <td>Chicken Biryani</td>
+            <td>7</td>
+            <td>57.1%</td>
+            <td>42.9%</td>
+            <td>3.57</td>
+          </tr>
+        
+          <tr>
+            <td>Naan</td>
+            <td>6</td>
+            <td>66.7%</td>
+            <td>16.7%</td>
+            <td>3.83</td>
+          </tr>
+        
+          <tr>
+            <td>Tandoori Chicken</td>
+            <td>5</td>
+            <td>60.0%</td>
+            <td>40.0%</td>
+            <td>3.4</td>
+          </tr>
+        
+          <tr>
+            <td>Butter Chicken</td>
+            <td>3</td>
+            <td>100.0%</td>
+            <td>0.0%</td>
+            <td>4.33</td>
+          </tr>
+        
+          <tr>
+            <td>Chole Bhature</td>
+            <td>3</td>
+            <td>100.0%</td>
+            <td>0.0%</td>
+            <td>4.67</td>
+          </tr>
+        
+          <tr>
+            <td>Paneer Tikka</td>
+            <td>3</td>
+            <td>33.3%</td>
+            <td>66.7%</td>
+            <td>3.0</td>
+          </tr>
+        
+          <tr>
+            <td>Momos</td>
+            <td>2</td>
+            <td>100.0%</td>
+            <td>0.0%</td>
+            <td>3.5</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="report-footer">
+    Generated 2026-09-01T20:17:16 · This report summarizes review evidence and does not post or modify customer reviews.
+  </div>
+</main>
+</body>
+</html>
