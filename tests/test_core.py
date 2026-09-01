@@ -1,11 +1,69 @@
-import sys,unittest
+import sys
+import unittest
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT/'scripts'))
-from common import sentiment_from_rating,confidence_band
-from analyze import classify
-class T(unittest.TestCase):
- def test_sentiment(self): self.assertEqual(sentiment_from_rating(5),'Positive');self.assertEqual(sentiment_from_rating(1),'Negative')
- def test_conf(self): self.assertEqual(confidence_band(.8),'High')
- def test_aspects(self):
-  tax={'keywords':{'Wait Time':['wait'],'Service':['service']}};cats={x['category'] for x in classify('long wait and slow service',tax)};self.assertIn('Wait Time',cats);self.assertIn('Service',cats)
-if __name__=='__main__':unittest.main()
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+
+from analyze import local_sentiment, classify_aspects
+
+
+class TestRestaurantReviewIntelligence(unittest.TestCase):
+
+    def setUp(self):
+        self.taxonomy = {
+            "keywords": {
+                "Food Quality": [
+                    "food",
+                    "fresh",
+                    "cold",
+                    "stale"
+                ],
+                "Service": [
+                    "service",
+                    "server",
+                    "staff"
+                ],
+                "Wait Time": [
+                    "wait",
+                    "waiting",
+                    "slow",
+                    "late"
+                ]
+            }
+        }
+
+    def test_positive_sentiment(self):
+        sentiment, confidence = local_sentiment(
+            "The food was amazing and delicious.",
+            5
+        )
+
+        self.assertEqual(sentiment, "Positive")
+        self.assertGreater(confidence, 0)
+
+    def test_negative_sentiment(self):
+        sentiment, confidence = local_sentiment(
+            "The service was terrible and very slow.",
+            1
+        )
+
+        self.assertEqual(sentiment, "Negative")
+        self.assertGreater(confidence, 0)
+
+    def test_aspect_classification(self):
+        result = classify_aspects(
+            "The food was delicious but the service was very slow.",
+            self.taxonomy,
+            3
+        )
+
+        categories = [x["category"] for x in result]
+
+        self.assertIn("Food Quality", categories)
+        self.assertIn("Service", categories)
+        self.assertIn("Wait Time", categories)
+
+
+if __name__ == "__main__":
+    unittest.main()
