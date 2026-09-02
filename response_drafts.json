@@ -1,353 +1,92 @@
 [
   {
-    "review_id": "demo-0001",
+    "review_id": "R003",
     "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Tandoori Chicken tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0002",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Food was decent but service was very slow during dinner.",
+    "rating": 1,
+    "review": "Dine in  |  Brunch  |  CA$10–20\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
     "primary_category": "Service",
-    "review_reply_url": "",
+    "review_reply_url": "https://www.google.com/maps/contrib/104253115709864877271/reviews?hl=en-CA",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
-    "review_id": "demo-0005",
+    "review_id": "R004",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "Restaurant was crowded and the tables were not clean.",
-    "primary_category": "Cleanliness",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with cleanliness did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0007",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0008",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "We waited 45 minutes for the Tandoori Chicken. Food was good but service was painfully slow.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0011",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Naan tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0012",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0014",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0016",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Chicken Biryani tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0018",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Dal Makhani was tasty but the wait time was unacceptable.",
+    "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
     "primary_category": "Taste",
-    "review_reply_url": "",
+    "review_reply_url": "https://www.google.com/maps/contrib/100201453242781394037/reviews?hl=en-CA",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
-    "review_id": "demo-0022",
+    "review_id": "R006",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "The Naan was cold and we waited 40 minutes for our food.",
+    "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\nIt was different around 2021-2022 .\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\nWon't recommend\nIf anyone want to have chana bhatura, try locations in brampton better .\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\n\nGroup size\n1 person",
     "primary_category": "Food Quality",
-    "review_reply_url": "",
+    "review_reply_url": "https://www.google.com/maps/contrib/117558656005584825961/reviews?hl=en-CA",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
-    "review_id": "demo-0032",
+    "review_id": "R008",
+    "review_date": "2025-12-12",
+    "rating": 1,
+    "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
+    "primary_category": "Service",
+    "review_reply_url": "https://www.google.com/maps/contrib/107232624749062124820/reviews?hl=en-CA",
+    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+  },
+  {
+    "review_id": "R011",
+    "review_date": "2025-12-12",
+    "rating": 1,
+    "review": "The food is below average. I ordered chicken tikka with naan and the chicken had chunks of onions. They weren’t even diced. No taste at all in any food item we ordered",
+    "primary_category": "Food Quality",
+    "review_reply_url": "https://www.google.com/maps/contrib/108204734892823580464/reviews?hl=en-CA",
+    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+  },
+  {
+    "review_id": "R012",
+    "review_date": "2025-12-12",
+    "rating": 1,
+    "review": "This place needs to improve seriously. I remember visiting it in 2019 when their hygiene was a little better but now they might as well be making people sick. I got their chole bhature and started vomiting as soon as I got back home. I had severe stomachache for the next few days. Their kitchen has stale food and nobody in the staff has any hygiene manners. It’s never properly mopped and you can even smell an eerie stinky smell. Please please please take proper measures as people’s health is affected when you don’t. In the pictures, you can look at the amount of oil used in there. I didn’t even finish half of it and still got sick. Never going back unless they fix their hygiene.",
+    "primary_category": "Food Quality",
+    "review_reply_url": "https://www.google.com/maps/contrib/105677419357806911202/reviews?hl=en-CA",
+    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+  },
+  {
+    "review_id": "R014",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "The Samosa was tasty but the wait time was unacceptable.",
+    "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
+    "primary_category": "Staff Behaviour",
+    "review_reply_url": "https://www.google.com/maps/contrib/114575078422859380119/reviews?hl=en-CA",
+    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+  },
+  {
+    "review_id": "R016",
+    "review_date": "2025-12-12",
+    "rating": 2,
+    "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
     "primary_category": "Taste",
     "review_reply_url": "",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
-    "review_id": "demo-0034",
+    "review_id": "R018",
     "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Food was decent but service was very slow during dinner.",
+    "rating": 1,
+    "review": "We have been visiting Moti Mahal for over 4 years but this was the very first time we were served with the oiliest and flakiest bathura’s. The food was not up to the mark and it was really disappointing. Not up to the standards of Moti Mahal.",
     "primary_category": "Service",
-    "review_reply_url": "",
+    "review_reply_url": "https://www.google.com/maps/contrib/115484336991292747181/reviews?hl=en-CA",
     "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   },
   {
-    "review_id": "demo-0036",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Food was decent but service was very slow during dinner.",
-    "primary_category": "Service",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0044",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Dinner service was very slow. Waited over 35 minutes before getting the Chicken Biryani.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0056",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Butter Chicken tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0063",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Samosa tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0067",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Food was decent but service was very slow during dinner.",
-    "primary_category": "Service",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0068",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Food was decent but service was very slow during dinner.",
-    "primary_category": "Service",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0073",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Chole Bhature tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0074",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0078",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "We waited 45 minutes for the Paneer Tikka. Food was good but service was painfully slow.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0079",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "We waited 45 minutes for the Momos. Food was good but service was painfully slow.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0080",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Chicken Biryani was tasty but the wait time was unacceptable.",
-    "primary_category": "Taste",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0082",
+    "review_id": "R020",
     "review_date": "2025-12-12",
     "rating": 1,
-    "review": "The staff seemed rude and our order had a missing item.",
-    "primary_category": "Staff Behaviour",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0083",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0084",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Dinner service was very slow. Waited over 35 minutes before getting the Paneer Tikka.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0093",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Dinner service was very slow. Waited over 35 minutes before getting the Dal Makhani.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0098",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "The Chicken Biryani tasted bland and the portion was too small for the price.",
-    "primary_category": "Price / Value",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with price / value did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0101",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0102",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0108",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Dinner service was very slow. Waited over 35 minutes before getting the Tandoori Chicken.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0114",
-    "review_date": "2025-12-12",
-    "rating": 1,
-    "review": "The staff seemed rude and our order had a missing item.",
-    "primary_category": "Staff Behaviour",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0117",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Restaurant was crowded and the tables were not clean.",
-    "primary_category": "Cleanliness",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with cleanliness did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0120",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Takeout was late and the packaging leaked.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0125",
-    "review_date": "2025-12-12",
-    "rating": 1,
-    "review": "The staff seemed rude and our order had a missing item.",
-    "primary_category": "Staff Behaviour",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0129",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "Restaurant was crowded and the tables were not clean.",
-    "primary_category": "Cleanliness",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with cleanliness did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0131",
-    "review_date": "2025-12-12",
-    "rating": 2,
-    "review": "We waited 45 minutes for the Dal Makhani. Food was good but service was painfully slow.",
-    "primary_category": "Wait Time",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with wait time did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
-  },
-  {
-    "review_id": "demo-0134",
-    "review_date": "2025-12-12",
-    "rating": 1,
-    "review": "The staff seemed rude and our order had a missing item.",
-    "primary_category": "Staff Behaviour",
-    "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "review": "The quality of the food, in terms of taste and presentation, did not meet expectations. The channa bhature and pani puri lacked flavor. The Raj Kachori was decent, and the mango lassi was good, as expected. Overall, it was not worth the money.",
+    "primary_category": "Food Quality",
+    "review_reply_url": "https://www.google.com/maps/contrib/111154416144187613669/reviews?hl=en-CA",
+    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
   }
 ]

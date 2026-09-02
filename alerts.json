@@ -1,22 +1,6 @@
 [
   {
-    "category": "Price / Value",
-    "current_negative": 7,
-    "previous_negative": 0,
-    "increase_ratio": null,
-    "severity": "High",
-    "window": "latest 7 days vs prior 7 days"
-  },
-  {
-    "category": "Service",
-    "current_negative": 10,
-    "previous_negative": 0,
-    "increase_ratio": null,
-    "severity": "High",
-    "window": "latest 7 days vs prior 7 days"
-  },
-  {
-    "category": "Staff Behaviour",
+    "category": "Food Quality",
     "current_negative": 4,
     "previous_negative": 0,
     "increase_ratio": null,
@@ -24,24 +8,24 @@
     "window": "latest 7 days vs prior 7 days"
   },
   {
-    "category": "Wait Time",
-    "current_negative": 22,
+    "category": "Taste",
+    "current_negative": 4,
     "previous_negative": 0,
     "increase_ratio": null,
     "severity": "High",
     "window": "latest 7 days vs prior 7 days"
   },
   {
-    "category": "Cleanliness",
-    "current_negative": 6,
-    "previous_negative": 0,
-    "increase_ratio": null,
-    "severity": "High",
-    "window": "latest 7 days vs prior 7 days"
-  },
-  {
-    "category": "Delivery / Takeout",
+    "category": "Service",
     "current_negative": 7,
+    "previous_negative": 0,
+    "increase_ratio": null,
+    "severity": "High",
+    "window": "latest 7 days vs prior 7 days"
+  },
+  {
+    "category": "Ambience",
+    "current_negative": 6,
     "previous_negative": 0,
     "increase_ratio": null,
     "severity": "High",
