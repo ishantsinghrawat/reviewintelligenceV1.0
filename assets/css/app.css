@@ -284,3 +284,10 @@ button{
   .filters input{min-width:0}
   .hero h1{font-size:28px}
 }
+/* V2 APPEND-ONLY styles. Paste at the END of your existing assets/css/app.css */
+.response-actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+.review-link-btn{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:10px 14px;border:1px solid var(--line);border-radius:9px;background:#fff;color:var(--ink);text-decoration:none;font-size:14px;font-weight:650}
+.review-link-btn:hover{background:var(--soft)}
+.no-review-link{color:var(--muted);font-size:12px}
+#issues small,.sub{color:var(--muted)}
+#brief li{margin-bottom:10px;line-height:1.45}
