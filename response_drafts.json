@@ -3,73 +3,153 @@
     "review_id": "R003",
     "review_date": "2025-12-12",
     "rating": 1,
-    "review": "Dine in  |  Brunch  |  CA$10–20\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
-    "primary_category": "Service",
+    "review": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+    "primary_category": "Staff Behaviour",
+    "negative_aspects": [
+      "Staff Behaviour",
+      "Taste",
+      "Service",
+      "Ambience"
+    ],
+    "positive_aspects": [],
+    "menu_items": [],
     "review_reply_url": "https://www.google.com/maps/contrib/104253115709864877271/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the staff behaviour and taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R004",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
+    "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\r\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
     "primary_category": "Taste",
+    "negative_aspects": [
+      "Taste",
+      "Food Quality",
+      "Service",
+      "Ambience"
+    ],
+    "positive_aspects": [],
+    "menu_items": [
+      "Naan"
+    ],
     "review_reply_url": "https://www.google.com/maps/contrib/100201453242781394037/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thanks for letting us know about your experience. We're sorry that the taste and food quality fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R006",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\nIt was different around 2021-2022 .\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\nWon't recommend\nIf anyone want to have chana bhatura, try locations in brampton better .\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\n\nGroup size\n1 person",
-    "primary_category": "Food Quality",
+    "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\r\nIt was different around 2021-2022 .\r\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\r\nWon't recommend\r\nIf anyone want to have chana bhatura, try locations in brampton better .\r\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\r\n\r\nGroup size\r\n1 person",
+    "primary_category": "Portion Size",
+    "negative_aspects": [
+      "Portion Size",
+      "Taste",
+      "Food Quality",
+      "Service",
+      "Ambience"
+    ],
+    "positive_aspects": [],
+    "menu_items": [],
     "review_reply_url": "https://www.google.com/maps/contrib/117558656005584825961/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the portion size and taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R008",
     "review_date": "2025-12-12",
     "rating": 1,
-    "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
+    "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\r\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
     "primary_category": "Service",
+    "negative_aspects": [
+      "Service",
+      "Ambience",
+      "Menu Availability"
+    ],
+    "positive_aspects": [],
+    "menu_items": [
+      "Butter Chicken"
+    ],
     "review_reply_url": "https://www.google.com/maps/contrib/107232624749062124820/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the service and ambience fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R011",
     "review_date": "2025-12-12",
     "rating": 1,
     "review": "The food is below average. I ordered chicken tikka with naan and the chicken had chunks of onions. They weren’t even diced. No taste at all in any food item we ordered",
-    "primary_category": "Food Quality",
+    "primary_category": "Taste",
+    "negative_aspects": [
+      "Taste"
+    ],
+    "positive_aspects": [],
+    "menu_items": [
+      "Naan"
+    ],
     "review_reply_url": "https://www.google.com/maps/contrib/108204734892823580464/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thanks for letting us know about your experience. We're sorry that the taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R012",
     "review_date": "2025-12-12",
     "rating": 1,
     "review": "This place needs to improve seriously. I remember visiting it in 2019 when their hygiene was a little better but now they might as well be making people sick. I got their chole bhature and started vomiting as soon as I got back home. I had severe stomachache for the next few days. Their kitchen has stale food and nobody in the staff has any hygiene manners. It’s never properly mopped and you can even smell an eerie stinky smell. Please please please take proper measures as people’s health is affected when you don’t. In the pictures, you can look at the amount of oil used in there. I didn’t even finish half of it and still got sick. Never going back unless they fix their hygiene.",
-    "primary_category": "Food Quality",
+    "primary_category": "Cleanliness",
+    "negative_aspects": [
+      "Cleanliness",
+      "Food Quality",
+      "Staff Behaviour"
+    ],
+    "positive_aspects": [],
+    "menu_items": [
+      "Chole Bhature"
+    ],
     "review_reply_url": "https://www.google.com/maps/contrib/105677419357806911202/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thanks for letting us know about your experience. We're sorry that the cleanliness and food quality fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R014",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
+    "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\r\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
     "primary_category": "Staff Behaviour",
+    "negative_aspects": [
+      "Staff Behaviour",
+      "Service",
+      "Cleanliness",
+      "Ambience",
+      "Food Quality",
+      "Price / Value"
+    ],
+    "positive_aspects": [],
+    "menu_items": [],
     "review_reply_url": "https://www.google.com/maps/contrib/114575078422859380119/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thanks for letting us know about your experience. We're sorry that the staff behaviour and service fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R016",
     "review_date": "2025-12-12",
     "rating": 2,
-    "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
-    "primary_category": "Taste",
+    "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\r\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
+    "primary_category": "Price / Value",
+    "negative_aspects": [
+      "Price / Value",
+      "Taste",
+      "Service",
+      "Ambience"
+    ],
+    "positive_aspects": [],
+    "menu_items": [
+      "Tandoori Chicken"
+    ],
     "review_reply_url": "",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the price / value and taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R018",
@@ -77,16 +157,30 @@
     "rating": 1,
     "review": "We have been visiting Moti Mahal for over 4 years but this was the very first time we were served with the oiliest and flakiest bathura’s. The food was not up to the mark and it was really disappointing. Not up to the standards of Moti Mahal.",
     "primary_category": "Service",
+    "negative_aspects": [
+      "Service"
+    ],
+    "positive_aspects": [],
+    "menu_items": [],
     "review_reply_url": "https://www.google.com/maps/contrib/115484336991292747181/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the service fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   },
   {
     "review_id": "R020",
     "review_date": "2025-12-12",
     "rating": 1,
     "review": "The quality of the food, in terms of taste and presentation, did not meet expectations. The channa bhature and pani puri lacked flavor. The Raj Kachori was decent, and the mango lassi was good, as expected. Overall, it was not worth the money.",
-    "primary_category": "Food Quality",
+    "primary_category": "Taste",
+    "negative_aspects": [
+      "Taste",
+      "Price / Value",
+      "Food Quality"
+    ],
+    "positive_aspects": [],
+    "menu_items": [],
     "review_reply_url": "https://www.google.com/maps/contrib/111154416144187613669/reviews?hl=en-CA",
-    "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+    "draft_response": "Thanks for letting us know about your experience. We're sorry that the taste and price / value fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+    "response_mode": "V2 contextual template"
   }
 ]

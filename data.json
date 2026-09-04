@@ -1,5 +1,6 @@
 {
-  "generated_at": "2026-09-02T22:50:52",
+  "analysis_version": "2.0",
+  "generated_at": "2026-09-04T01:27:49",
   "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "business": {
@@ -22,38 +23,44 @@
     {
       "category": "Food Quality",
       "mentions": 7,
-      "positive": 3,
+      "positive": 2,
       "neutral": 0,
-      "negative": 4,
-      "negative_rate": 0.571,
-      "positive_rate": 0.429,
+      "negative": 5,
+      "negative_rate": 0.714,
+      "positive_rate": 0.286,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 4
+      "negative_change": 5,
+      "average_rating": 2.29,
+      "priority_score": 96.4
     },
     {
       "category": "Taste",
       "mentions": 12,
-      "positive": 7,
+      "positive": 5,
       "neutral": 1,
-      "negative": 4,
-      "negative_rate": 0.333,
-      "positive_rate": 0.583,
+      "negative": 6,
+      "negative_rate": 0.5,
+      "positive_rate": 0.417,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 4
+      "negative_change": 6,
+      "average_rating": 2.83,
+      "priority_score": 97.0
     },
     {
       "category": "Portion Size",
-      "mentions": 4,
-      "positive": 2,
+      "mentions": 5,
+      "positive": 3,
       "neutral": 1,
       "negative": 1,
-      "negative_rate": 0.25,
-      "positive_rate": 0.5,
+      "negative_rate": 0.2,
+      "positive_rate": 0.6,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 1
+      "negative_change": 1,
+      "average_rating": 3.8,
+      "priority_score": 51.8
     },
     {
       "category": "Price / Value",
@@ -65,7 +72,9 @@
       "positive_rate": 0.25,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 3
+      "negative_change": 3,
+      "average_rating": 2.25,
+      "priority_score": 79.2
     },
     {
       "category": "Service",
@@ -77,31 +86,37 @@
       "positive_rate": 0.231,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 7
+      "negative_change": 7,
+      "average_rating": 2.62,
+      "priority_score": 96.6
     },
     {
       "category": "Staff Behaviour",
-      "mentions": 5,
-      "positive": 1,
-      "neutral": 1,
+      "mentions": 6,
+      "positive": 3,
+      "neutral": 0,
       "negative": 3,
-      "negative_rate": 0.6,
-      "positive_rate": 0.2,
+      "negative_rate": 0.5,
+      "positive_rate": 0.5,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 3
+      "negative_change": 3,
+      "average_rating": 2.83,
+      "priority_score": 81.2
     },
     {
       "category": "Wait Time",
-      "mentions": 6,
-      "positive": 4,
+      "mentions": 2,
+      "positive": 1,
       "neutral": 1,
-      "negative": 1,
-      "negative_rate": 0.167,
-      "positive_rate": 0.667,
+      "negative": 0,
+      "negative_rate": 0.0,
+      "positive_rate": 0.5,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 1
+      "negative_change": 0,
+      "average_rating": 4.0,
+      "priority_score": 0
     },
     {
       "category": "Order Accuracy",
@@ -113,34 +128,54 @@
       "positive_rate": 0,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 0
+      "negative_change": 0,
+      "average_rating": 0,
+      "priority_score": 0
     },
     {
       "category": "Cleanliness",
-      "mentions": 4,
-      "positive": 1,
-      "neutral": 2,
-      "negative": 1,
-      "negative_rate": 0.25,
-      "positive_rate": 0.25,
+      "mentions": 5,
+      "positive": 2,
+      "neutral": 1,
+      "negative": 2,
+      "negative_rate": 0.4,
+      "positive_rate": 0.4,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 1
+      "negative_change": 2,
+      "average_rating": 2.8,
+      "priority_score": 67.5
     },
     {
       "category": "Ambience",
-      "mentions": 12,
-      "positive": 3,
+      "mentions": 13,
+      "positive": 4,
       "neutral": 3,
       "negative": 6,
-      "negative_rate": 0.5,
-      "positive_rate": 0.25,
+      "negative_rate": 0.462,
+      "positive_rate": 0.308,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 6
+      "negative_change": 6,
+      "average_rating": 2.92,
+      "priority_score": 96.0
     },
     {
       "category": "Delivery / Takeout",
+      "mentions": 2,
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0,
+      "negative_rate": 0.0,
+      "positive_rate": 0.5,
+      "prior_mentions": 0,
+      "prior_negative": 0,
+      "negative_change": 0,
+      "average_rating": 3.0,
+      "priority_score": 0
+    },
+    {
+      "category": "Parking / Accessibility",
       "mentions": 1,
       "positive": 0,
       "neutral": 1,
@@ -149,31 +184,180 @@
       "positive_rate": 0.0,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 0
-    },
-    {
-      "category": "Parking / Accessibility",
-      "mentions": 0,
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0,
-      "negative_rate": 0,
-      "positive_rate": 0,
-      "prior_mentions": 0,
-      "prior_negative": 0,
-      "negative_change": 0
+      "negative_change": 0,
+      "average_rating": 3.0,
+      "priority_score": 0
     },
     {
       "category": "Menu Availability",
-      "mentions": 2,
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0,
-      "negative_rate": 0.0,
-      "positive_rate": 0.0,
+      "mentions": 4,
+      "positive": 2,
+      "neutral": 1,
+      "negative": 1,
+      "negative_rate": 0.25,
+      "positive_rate": 0.5,
       "prior_mentions": 0,
       "prior_negative": 0,
-      "negative_change": 0
+      "negative_change": 1,
+      "average_rating": 3.0,
+      "priority_score": 57.8
+    }
+  ],
+  "priority_issues": [
+    {
+      "rank": 1,
+      "category": "Taste",
+      "priority_score": 97.0,
+      "severity": "High",
+      "negative_mentions": 6,
+      "mentions": 12,
+      "negative_rate": 50.0,
+      "average_rating": 2.83,
+      "negative_change": 6,
+      "summary": "Taste has 6 negative mentions across 12 mentions; negative volume increased by 6 vs the prior 30-day window.",
+      "recommended_action": "Review the dishes repeatedly associated with taste complaints and check recipe/seasoning consistency.",
+      "evidence": [
+        {
+          "review_id": "R003",
+          "rating": 1,
+          "text": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+          "evidence": [
+            "I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them."
+          ]
+        },
+        {
+          "review_id": "R011",
+          "rating": 1,
+          "text": "The food is below average. I ordered chicken tikka with naan and the chicken had chunks of onions. They weren’t even diced. No taste at all in any food item we ordered",
+          "evidence": [
+            "No taste at all in any food item we ordered"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "Service",
+      "priority_score": 96.6,
+      "severity": "High",
+      "negative_mentions": 7,
+      "mentions": 13,
+      "negative_rate": 53.8,
+      "average_rating": 2.62,
+      "negative_change": 7,
+      "summary": "Service has 7 negative mentions across 13 mentions; negative volume increased by 7 vs the prior 30-day window.",
+      "recommended_action": "Review service handoffs and identify where guests stop receiving timely attention.",
+      "evidence": [
+        {
+          "review_id": "R003",
+          "rating": 1,
+          "text": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+          "evidence": [
+            "Food: 2/5  |  Service: 1/5  |  Atmosphere: 1/5"
+          ]
+        },
+        {
+          "review_id": "R008",
+          "rating": 1,
+          "text": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\r\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
+          "evidence": [
+            "Food: 5/5  |  Service: 1/5  |  Atmosphere: 3/5"
+          ]
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "Food Quality",
+      "priority_score": 96.4,
+      "severity": "High",
+      "negative_mentions": 5,
+      "mentions": 7,
+      "negative_rate": 71.4,
+      "average_rating": 2.29,
+      "negative_change": 5,
+      "summary": "Food Quality has 5 negative mentions across 7 mentions; negative volume increased by 5 vs the prior 30-day window.",
+      "recommended_action": "Audit preparation consistency and holding times for the dishes appearing in recent complaints.",
+      "evidence": [
+        {
+          "review_id": "R012",
+          "rating": 1,
+          "text": "This place needs to improve seriously. I remember visiting it in 2019 when their hygiene was a little better but now they might as well be making people sick. I got their chole bhature and started vomiting as soon as I got back home. I had severe stomachache for the next few days. Their kitchen has stale food and nobody in the staff has any hygiene manners. It’s never properly mopped and you can even smell an eerie stinky smell. Please please please take proper measures as people’s health is affected when you don’t. In the pictures, you can look at the amount of oil used in there. I didn’t even finish half of it and still got sick. Never going back unless they fix their hygiene.",
+          "evidence": [
+            "Their kitchen has stale food and nobody in the staff has any hygiene manners."
+          ]
+        },
+        {
+          "review_id": "R020",
+          "rating": 1,
+          "text": "The quality of the food, in terms of taste and presentation, did not meet expectations. The channa bhature and pani puri lacked flavor. The Raj Kachori was decent, and the mango lassi was good, as expected. Overall, it was not worth the money.",
+          "evidence": [
+            "The quality of the food, in terms of taste and presentation, did not meet expectations."
+          ]
+        }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "title": "Ambience + Service",
+      "summary": "12 recent reviews mention both ambience and service; those reviews average 2.75 stars.",
+      "reviews": 12,
+      "average_rating": 2.75,
+      "review_ids": [
+        "R002",
+        "R003",
+        "R004",
+        "R006",
+        "R007",
+        "R008",
+        "R010",
+        "R014"
+      ]
+    },
+    {
+      "title": "Ambience + Taste",
+      "summary": "9 recent reviews mention both ambience and taste; those reviews average 3.0 stars.",
+      "reviews": 9,
+      "average_rating": 3.0,
+      "review_ids": [
+        "R002",
+        "R003",
+        "R004",
+        "R006",
+        "R007",
+        "R010",
+        "R015",
+        "R016"
+      ]
+    },
+    {
+      "title": "Service + Taste",
+      "summary": "9 recent reviews mention both service and taste; those reviews average 3.0 stars.",
+      "reviews": 9,
+      "average_rating": 3.0,
+      "review_ids": [
+        "R002",
+        "R003",
+        "R004",
+        "R006",
+        "R007",
+        "R010",
+        "R015",
+        "R016"
+      ]
+    },
+    {
+      "title": "Ambience + Menu Availability",
+      "summary": "4 recent reviews mention both ambience and menu availability; those reviews average 3.0 stars.",
+      "reviews": 4,
+      "average_rating": 3.0,
+      "review_ids": [
+        "R001",
+        "R007",
+        "R008",
+        "R015"
+      ]
     }
   ],
   "menu_stats": [
@@ -200,10 +384,10 @@
     {
       "item": "Samosa",
       "mentions": 2,
-      "positive": 1,
+      "positive": 2,
       "negative": 0,
-      "neutral": 1,
-      "positive_pct": 50.0,
+      "neutral": 0,
+      "positive_pct": 100.0,
       "negative_pct": 0.0,
       "avg_rating": 4.0
     },
@@ -240,7 +424,7 @@
   "alerts": [
     {
       "category": "Food Quality",
-      "current_negative": 4,
+      "current_negative": 5,
       "previous_negative": 0,
       "increase_ratio": null,
       "severity": "High",
@@ -248,7 +432,7 @@
     },
     {
       "category": "Taste",
-      "current_negative": 4,
+      "current_negative": 6,
       "previous_negative": 0,
       "increase_ratio": null,
       "severity": "High",
@@ -272,22 +456,179 @@
     }
   ],
   "brief": {
-    "headline": "Customer feedback needs attention",
-    "summary": "20 reviews were analyzed in the latest 30-day window with an average rating of 2.85.",
+    "headline": "Top priority: Taste",
+    "summary": "20 reviews were analyzed in the latest 30 days. Average rating is 2.85. Taste has the highest operational priority score (97.0/100).",
     "top_concerns": [
+      "Taste",
       "Service",
-      "Ambience",
       "Food Quality"
     ],
     "top_strengths": [
       "Taste",
-      "Wait Time",
-      "Food Quality"
+      "Ambience",
+      "Portion Size"
     ],
     "recommended_actions": [
-      "Review service standards and identify when customer attention breaks down.",
-      "Review the underlying ambience complaints and identify a recurring operational cause.",
-      "Review the underlying food quality complaints and identify a recurring operational cause."
+      "Review the dishes repeatedly associated with taste complaints and check recipe/seasoning consistency.",
+      "Review service handoffs and identify where guests stop receiving timely attention.",
+      "Audit preparation consistency and holding times for the dishes appearing in recent complaints."
+    ],
+    "priority_issues": [
+      {
+        "rank": 1,
+        "category": "Taste",
+        "priority_score": 97.0,
+        "severity": "High",
+        "negative_mentions": 6,
+        "mentions": 12,
+        "negative_rate": 50.0,
+        "average_rating": 2.83,
+        "negative_change": 6,
+        "summary": "Taste has 6 negative mentions across 12 mentions; negative volume increased by 6 vs the prior 30-day window.",
+        "recommended_action": "Review the dishes repeatedly associated with taste complaints and check recipe/seasoning consistency.",
+        "evidence": [
+          {
+            "review_id": "R003",
+            "rating": 1,
+            "text": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+            "evidence": [
+              "I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them."
+            ]
+          },
+          {
+            "review_id": "R011",
+            "rating": 1,
+            "text": "The food is below average. I ordered chicken tikka with naan and the chicken had chunks of onions. They weren’t even diced. No taste at all in any food item we ordered",
+            "evidence": [
+              "No taste at all in any food item we ordered"
+            ]
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "category": "Service",
+        "priority_score": 96.6,
+        "severity": "High",
+        "negative_mentions": 7,
+        "mentions": 13,
+        "negative_rate": 53.8,
+        "average_rating": 2.62,
+        "negative_change": 7,
+        "summary": "Service has 7 negative mentions across 13 mentions; negative volume increased by 7 vs the prior 30-day window.",
+        "recommended_action": "Review service handoffs and identify where guests stop receiving timely attention.",
+        "evidence": [
+          {
+            "review_id": "R003",
+            "rating": 1,
+            "text": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+            "evidence": [
+              "Food: 2/5  |  Service: 1/5  |  Atmosphere: 1/5"
+            ]
+          },
+          {
+            "review_id": "R008",
+            "rating": 1,
+            "text": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\r\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
+            "evidence": [
+              "Food: 5/5  |  Service: 1/5  |  Atmosphere: 3/5"
+            ]
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "category": "Food Quality",
+        "priority_score": 96.4,
+        "severity": "High",
+        "negative_mentions": 5,
+        "mentions": 7,
+        "negative_rate": 71.4,
+        "average_rating": 2.29,
+        "negative_change": 5,
+        "summary": "Food Quality has 5 negative mentions across 7 mentions; negative volume increased by 5 vs the prior 30-day window.",
+        "recommended_action": "Audit preparation consistency and holding times for the dishes appearing in recent complaints.",
+        "evidence": [
+          {
+            "review_id": "R012",
+            "rating": 1,
+            "text": "This place needs to improve seriously. I remember visiting it in 2019 when their hygiene was a little better but now they might as well be making people sick. I got their chole bhature and started vomiting as soon as I got back home. I had severe stomachache for the next few days. Their kitchen has stale food and nobody in the staff has any hygiene manners. It’s never properly mopped and you can even smell an eerie stinky smell. Please please please take proper measures as people’s health is affected when you don’t. In the pictures, you can look at the amount of oil used in there. I didn’t even finish half of it and still got sick. Never going back unless they fix their hygiene.",
+            "evidence": [
+              "Their kitchen has stale food and nobody in the staff has any hygiene manners."
+            ]
+          },
+          {
+            "review_id": "R020",
+            "rating": 1,
+            "text": "The quality of the food, in terms of taste and presentation, did not meet expectations. The channa bhature and pani puri lacked flavor. The Raj Kachori was decent, and the mango lassi was good, as expected. Overall, it was not worth the money.",
+            "evidence": [
+              "The quality of the food, in terms of taste and presentation, did not meet expectations."
+            ]
+          }
+        ]
+      }
+    ],
+    "patterns": [
+      {
+        "title": "Ambience + Service",
+        "summary": "12 recent reviews mention both ambience and service; those reviews average 2.75 stars.",
+        "reviews": 12,
+        "average_rating": 2.75,
+        "review_ids": [
+          "R002",
+          "R003",
+          "R004",
+          "R006",
+          "R007",
+          "R008",
+          "R010",
+          "R014"
+        ]
+      },
+      {
+        "title": "Ambience + Taste",
+        "summary": "9 recent reviews mention both ambience and taste; those reviews average 3.0 stars.",
+        "reviews": 9,
+        "average_rating": 3.0,
+        "review_ids": [
+          "R002",
+          "R003",
+          "R004",
+          "R006",
+          "R007",
+          "R010",
+          "R015",
+          "R016"
+        ]
+      },
+      {
+        "title": "Service + Taste",
+        "summary": "9 recent reviews mention both service and taste; those reviews average 3.0 stars.",
+        "reviews": 9,
+        "average_rating": 3.0,
+        "review_ids": [
+          "R002",
+          "R003",
+          "R004",
+          "R006",
+          "R007",
+          "R010",
+          "R015",
+          "R016"
+        ]
+      },
+      {
+        "title": "Ambience + Menu Availability",
+        "summary": "4 recent reviews mention both ambience and menu availability; those reviews average 3.0 stars.",
+        "reviews": 4,
+        "average_rating": 3.0,
+        "review_ids": [
+          "R001",
+          "R007",
+          "R008",
+          "R015"
+        ]
+      }
     ]
   },
   "response_drafts": [
@@ -295,73 +636,153 @@
       "review_id": "R003",
       "review_date": "2025-12-12",
       "rating": 1,
-      "review": "Dine in  |  Brunch  |  CA$10–20\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
-      "primary_category": "Service",
+      "review": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+      "primary_category": "Staff Behaviour",
+      "negative_aspects": [
+        "Staff Behaviour",
+        "Taste",
+        "Service",
+        "Ambience"
+      ],
+      "positive_aspects": [],
+      "menu_items": [],
       "review_reply_url": "https://www.google.com/maps/contrib/104253115709864877271/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the staff behaviour and taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R004",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
+      "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\r\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
       "primary_category": "Taste",
+      "negative_aspects": [
+        "Taste",
+        "Food Quality",
+        "Service",
+        "Ambience"
+      ],
+      "positive_aspects": [],
+      "menu_items": [
+        "Naan"
+      ],
       "review_reply_url": "https://www.google.com/maps/contrib/100201453242781394037/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thanks for letting us know about your experience. We're sorry that the taste and food quality fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R006",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\nIt was different around 2021-2022 .\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\nWon't recommend\nIf anyone want to have chana bhatura, try locations in brampton better .\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\n\nGroup size\n1 person",
-      "primary_category": "Food Quality",
+      "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\r\nIt was different around 2021-2022 .\r\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\r\nWon't recommend\r\nIf anyone want to have chana bhatura, try locations in brampton better .\r\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\r\n\r\nGroup size\r\n1 person",
+      "primary_category": "Portion Size",
+      "negative_aspects": [
+        "Portion Size",
+        "Taste",
+        "Food Quality",
+        "Service",
+        "Ambience"
+      ],
+      "positive_aspects": [],
+      "menu_items": [],
       "review_reply_url": "https://www.google.com/maps/contrib/117558656005584825961/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the portion size and taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R008",
       "review_date": "2025-12-12",
       "rating": 1,
-      "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
+      "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\r\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
       "primary_category": "Service",
+      "negative_aspects": [
+        "Service",
+        "Ambience",
+        "Menu Availability"
+      ],
+      "positive_aspects": [],
+      "menu_items": [
+        "Butter Chicken"
+      ],
       "review_reply_url": "https://www.google.com/maps/contrib/107232624749062124820/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the service and ambience fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R011",
       "review_date": "2025-12-12",
       "rating": 1,
       "review": "The food is below average. I ordered chicken tikka with naan and the chicken had chunks of onions. They weren’t even diced. No taste at all in any food item we ordered",
-      "primary_category": "Food Quality",
+      "primary_category": "Taste",
+      "negative_aspects": [
+        "Taste"
+      ],
+      "positive_aspects": [],
+      "menu_items": [
+        "Naan"
+      ],
       "review_reply_url": "https://www.google.com/maps/contrib/108204734892823580464/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thanks for letting us know about your experience. We're sorry that the taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R012",
       "review_date": "2025-12-12",
       "rating": 1,
       "review": "This place needs to improve seriously. I remember visiting it in 2019 when their hygiene was a little better but now they might as well be making people sick. I got their chole bhature and started vomiting as soon as I got back home. I had severe stomachache for the next few days. Their kitchen has stale food and nobody in the staff has any hygiene manners. It’s never properly mopped and you can even smell an eerie stinky smell. Please please please take proper measures as people’s health is affected when you don’t. In the pictures, you can look at the amount of oil used in there. I didn’t even finish half of it and still got sick. Never going back unless they fix their hygiene.",
-      "primary_category": "Food Quality",
+      "primary_category": "Cleanliness",
+      "negative_aspects": [
+        "Cleanliness",
+        "Food Quality",
+        "Staff Behaviour"
+      ],
+      "positive_aspects": [],
+      "menu_items": [
+        "Chole Bhature"
+      ],
       "review_reply_url": "https://www.google.com/maps/contrib/105677419357806911202/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thanks for letting us know about your experience. We're sorry that the cleanliness and food quality fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R014",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
+      "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\r\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
       "primary_category": "Staff Behaviour",
+      "negative_aspects": [
+        "Staff Behaviour",
+        "Service",
+        "Cleanliness",
+        "Ambience",
+        "Food Quality",
+        "Price / Value"
+      ],
+      "positive_aspects": [],
+      "menu_items": [],
       "review_reply_url": "https://www.google.com/maps/contrib/114575078422859380119/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with staff behaviour did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thanks for letting us know about your experience. We're sorry that the staff behaviour and service fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R016",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
-      "primary_category": "Taste",
+      "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\r\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
+      "primary_category": "Price / Value",
+      "negative_aspects": [
+        "Price / Value",
+        "Taste",
+        "Service",
+        "Ambience"
+      ],
+      "positive_aspects": [],
+      "menu_items": [
+        "Tandoori Chicken"
+      ],
       "review_reply_url": "",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with taste did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the price / value and taste fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R018",
@@ -369,17 +790,31 @@
       "rating": 1,
       "review": "We have been visiting Moti Mahal for over 4 years but this was the very first time we were served with the oiliest and flakiest bathura’s. The food was not up to the mark and it was really disappointing. Not up to the standards of Moti Mahal.",
       "primary_category": "Service",
+      "negative_aspects": [
+        "Service"
+      ],
+      "positive_aspects": [],
+      "menu_items": [],
       "review_reply_url": "https://www.google.com/maps/contrib/115484336991292747181/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with service did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thank you for taking the time to share this feedback. We're sorry that the service fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     },
     {
       "review_id": "R020",
       "review_date": "2025-12-12",
       "rating": 1,
       "review": "The quality of the food, in terms of taste and presentation, did not meet expectations. The channa bhature and pani puri lacked flavor. The Raj Kachori was decent, and the mango lassi was good, as expected. Overall, it was not worth the money.",
-      "primary_category": "Food Quality",
+      "primary_category": "Taste",
+      "negative_aspects": [
+        "Taste",
+        "Price / Value",
+        "Food Quality"
+      ],
+      "positive_aspects": [],
+      "menu_items": [],
       "review_reply_url": "https://www.google.com/maps/contrib/111154416144187613669/reviews?hl=en-CA",
-      "draft_response": "Thank you for sharing your feedback. We're sorry your experience with food quality did not meet expectations. We appreciate you bringing this to our attention and will review it with our team. We hope you'll give us another opportunity to provide a better experience."
+      "draft_response": "Thanks for letting us know about your experience. We're sorry that the taste and price / value fell short of what you expected. We'll use your feedback with our team as we work to improve the guest experience. We hope we have the opportunity to provide a better experience next time.",
+      "response_mode": "V2 contextual template"
     }
   ],
   "reviews": [
@@ -389,47 +824,59 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 5,
-      "review": "We visited MotiMahal Restaurant in the Gerrard India Bazaar and enjoyed experiencing one of Toronto’s longest-running Indian restaurants. Serving the community since 1976, Moti Mahal has been a neighborhood landmark for generations and offers a casual, welcoming atmosphere, offering a mix of Indian street food, curries, thalis, sweets, and traditional favorites.\n\nThe restaurant has a long history and connection to Toronto’s Little India community. And, the menu offers a wide variety of options, from quick snacks and street food to full meals and freshly made sweets prepared in-house.\n\nWe were impressed with their selection of Indian sweets. The display offered a great variety of traditional desserts, and we ended up getting a mixed box to take home.",
+      "review": "We visited MotiMahal Restaurant in the Gerrard India Bazaar and enjoyed experiencing one of Toronto’s longest-running Indian restaurants. Serving the community since 1976, Moti Mahal has been a neighborhood landmark for generations and offers a casual, welcoming atmosphere, offering a mix of Indian street food, curries, thalis, sweets, and traditional favorites.\r\n\r\nThe restaurant has a long history and connection to Toronto’s Little India community. And, the menu offers a wide variety of options, from quick snacks and street food to full meals and freshly made sweets prepared in-house.\r\n\r\nWe were impressed with their selection of Indian sweets. The display offered a great variety of traditional desserts, and we ended up getting a mixed box to take home.",
       "source": "Google",
       "author": "Alaleh - FoodyTO",
       "review_reply_url": "https://www.google.com/maps/contrib/103869732971444044816/reviews?hl=en-CA",
       "sentiment": "Positive",
-      "primary_category": "Food Quality",
+      "primary_category": "Portion Size",
       "aspects": [
         {
-          "category": "Food Quality",
-          "score": 0.66,
+          "category": "Portion Size",
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
-            "fresh"
+            "serving"
+          ],
+          "evidence": [
+            "Serving the community since 1976, Moti Mahal has been a neighborhood landmark for generations and offers a casual, welcoming atmosphere, offering a mix of Indian street food, curries, thalis, sweets, and traditional favorites."
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.66,
+          "category": "Staff Behaviour",
+          "score": 0.71,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.48,
           "hits": [
-            "sweet"
-          ]
-        },
-        {
-          "category": "Wait Time",
-          "score": 0.66,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
-          "hits": [
-            "quick"
+            "welcoming"
+          ],
+          "evidence": [
+            "Serving the community since 1976, Moti Mahal has been a neighborhood landmark for generations and offers a casual, welcoming atmosphere, offering a mix of Indian street food, curries, thalis, sweets, and traditional favorites."
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Serving the community since 1976, Moti Mahal has been a neighborhood landmark for generations and offers a casual, welcoming atmosphere, offering a mix of Indian street food, curries, thalis, sweets, and traditional favorites."
+          ]
+        },
+        {
+          "category": "Menu Availability",
+          "score": 0.71,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
+          "hits": [
+            "menu"
+          ],
+          "evidence": [
+            "And, the menu offers a wide variety of options, from quick snacks and street food to full meals and freshly made sweets prepared in-house."
           ]
         }
       ],
@@ -441,7 +888,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 5,
-      "review": "A legendary spot in Toronto with almost 50 years of history! The chole bhature and keema paratha were absolutely amazing—rich flavors, authentic taste, and truly satisfying. You can tell the food carries decades of tradition and consistency. Mango lassi was decent.\n\nThe restaurant itself isn’t super clean or fancy, but the food more than makes up for it. If you’re looking for real, old-school North Indian comfort food, Moti Mahal is a must-visit.\nFood: 5/5  |  Service: 5/5  |  Atmosphere: 3/5\n\nNoise level\nQuiet, easy to talk",
+      "review": "A legendary spot in Toronto with almost 50 years of history! The chole bhature and keema paratha were absolutely amazing—rich flavors, authentic taste, and truly satisfying. You can tell the food carries decades of tradition and consistency. Mango lassi was decent.\r\n\r\nThe restaurant itself isn’t super clean or fancy, but the food more than makes up for it. If you’re looking for real, old-school North Indian comfort food, Moti Mahal is a must-visit.\r\nFood: 5/5  |  Service: 5/5  |  Atmosphere: 3/5\r\n\r\nNoise level\r\nQuiet, easy to talk",
       "source": "Google",
       "author": "Abinash Panda",
       "review_reply_url": "https://www.google.com/maps/contrib/102575625660281824131/reviews?hl=en-CA",
@@ -450,30 +897,53 @@
       "aspects": [
         {
           "category": "Ambience",
-          "score": 0.72,
+          "score": 0.8,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere",
             "noise"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 5/5  |  Atmosphere: 3/5",
+            "Noise level"
           ]
         },
         {
           "category": "Taste",
-          "score": 0.66,
+          "score": 0.77,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.718,
           "hits": [
-            "flavor"
+            "flavou?r",
+            "taste"
+          ],
+          "evidence": [
+            "The chole bhature and keema paratha were absolutely amazing—rich flavors, authentic taste, and truly satisfying."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 5/5  |  Atmosphere: 3/5"
+          ]
+        },
+        {
+          "category": "Cleanliness",
+          "score": 0.71,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.718,
+          "hits": [
+            "clean"
+          ],
+          "evidence": [
+            "The restaurant itself isn’t super clean or fancy,"
           ]
         }
       ],
@@ -487,38 +957,61 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 1,
-      "review": "Dine in  |  Brunch  |  CA$10–20\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
+      "review": "Dine in  |  Brunch  |  CA$10–20\r\nI came to the Moti Mahal restaurant today to have some chatpata food. I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them. But we wanted to get a lot of things, and we only got a few items. But, the cashier named Ritesh, his way of speaking is not appropriate. His behavior is completely senseless. He has no idea how to manage or handle customers. His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here. But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them.\r\nFood: 2/5  |  Service: 1/5  |  Atmosphere: 1/5",
       "source": "Google",
       "author": "Mohammed Faiz Ansari",
       "review_reply_url": "https://www.google.com/maps/contrib/104253115709864877271/reviews?hl=en-CA",
       "sentiment": "Negative",
-      "primary_category": "Service",
+      "primary_category": "Staff Behaviour",
       "aspects": [
         {
+          "category": "Staff Behaviour",
+          "score": 0.8,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.69,
+          "hits": [
+            "attitude",
+            "manager"
+          ],
+          "evidence": [
+            "His attitude was as if I had bought nothing from the restaurant, just a small snack, even though there are many dishes here.",
+            "But I request the manager of this restaurant to teach him some manners, how to speak to customers, and how to treat them."
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.71,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "taste"
+          ],
+          "evidence": [
+            "I had heard a lot about Moti Mahal, that they have many dishes, so we came to taste them."
+          ]
+        },
+        {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
-          ]
-        },
-        {
-          "category": "Staff Behaviour",
-          "score": 0.66,
-          "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "attitude"
+          ],
+          "evidence": [
+            "Food: 2/5  |  Service: 1/5  |  Atmosphere: 1/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 2/5  |  Service: 1/5  |  Atmosphere: 1/5"
           ]
         }
       ],
@@ -530,7 +1023,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
+      "review": "I am giving two star for their raj kachori and naan. They tasted good. But for the other items that came with non-veg thaali, all of them were BAD. They tested super salty, greasy and overpoweringly spiced-up. I had acid reflux straight away after finishing the food. Definitely, the worst Indian food I have ever tried.\r\nFood: 1/5  |  Service: 1/5  |  Atmosphere: 1/5",
       "source": "Google",
       "author": "Sneha Paul",
       "review_reply_url": "https://www.google.com/maps/contrib/100201453242781394037/reviews?hl=en-CA",
@@ -539,29 +1032,53 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.66,
+          "score": 0.86,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.48,
           "hits": [
-            "salty"
+            "salty",
+            "taste",
+            "tasted"
+          ],
+          "evidence": [
+            "They tasted good.",
+            "They tested super salty, greasy and overpoweringly spiced-up."
+          ]
+        },
+        {
+          "category": "Food Quality",
+          "score": 0.71,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.718,
+          "hits": [
+            "greasy"
+          ],
+          "evidence": [
+            "They tested super salty, greasy and overpoweringly spiced-up."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 1/5  |  Service: 1/5  |  Atmosphere: 1/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 1/5  |  Service: 1/5  |  Atmosphere: 1/5"
           ]
         }
       ],
@@ -575,38 +1092,48 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 5,
-      "review": "I’ve been a regular at Moti Mahal Restaurant for over six years now. This place is run by a wonderful elderly couple who are incredibly warm and kind—even today, they still head into the kitchen every single day to personally cook and oversee the dishes. The staff here is always professional and welcoming, making you feel right at home the moment you walk in.\n?You can always find the perfect lunch to satisfy your cravings here. From their crispy samosas and traditional naan to my personal favorite—the lamb biryani—plus a great selection of desserts, they have it all. If you’re looking to experience authentic, time-honored Indian flavors, I highly recommend checking this place out!\nGroup size\n1 person, 2 people",
+      "review": "I’ve been a regular at Moti Mahal Restaurant for over six years now. This place is run by a wonderful elderly couple who are incredibly warm and kind—even today, they still head into the kitchen every single day to personally cook and oversee the dishes. The staff here is always professional and welcoming, making you feel right at home the moment you walk in.\r\n?You can always find the perfect lunch to satisfy your cravings here. From their crispy samosas and traditional naan to my personal favorite—the lamb biryani—plus a great selection of desserts, they have it all. If you’re looking to experience authentic, time-honored Indian flavors, I highly recommend checking this place out!\r\nGroup size\r\n1 person, 2 people",
       "source": "Google",
       "author": "Franklin Chen",
       "review_reply_url": "https://www.google.com/maps/contrib/103544091814208383512/reviews?hl=en-CA",
       "sentiment": "Positive",
-      "primary_category": "Taste",
+      "primary_category": "Staff Behaviour",
       "aspects": [
         {
-          "category": "Taste",
-          "score": 0.66,
+          "category": "Staff Behaviour",
+          "score": 0.77,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
-            "flavor"
+            "staff",
+            "welcoming"
+          ],
+          "evidence": [
+            "The staff here is always professional and welcoming, making you feel right at home the moment you walk in."
+          ]
+        },
+        {
+          "category": "Taste",
+          "score": 0.71,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
+          "hits": [
+            "flavou?r"
+          ],
+          "evidence": [
+            "If you’re looking to experience authentic, time-honored Indian flavors, I highly recommend checking this place out!"
           ]
         },
         {
           "category": "Portion Size",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
             "size"
-          ]
-        },
-        {
-          "category": "Staff Behaviour",
-          "score": 0.66,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "staff"
+          ],
+          "evidence": [
+            "Group size"
           ]
         }
       ],
@@ -621,56 +1148,79 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\nIt was different around 2021-2022 .\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\nWon't recommend\nIf anyone want to have chana bhatura, try locations in brampton better .\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\n\nGroup size\n1 person",
+      "review": "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,\r\nIt was different around 2021-2022 .\r\nLast and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.\r\nWon't recommend\r\nIf anyone want to have chana bhatura, try locations in brampton better .\r\nFood: 2/5  |  Service: 4/5  |  Atmosphere: 3/5\r\n\r\nGroup size\r\n1 person",
       "source": "Google",
       "author": "Guri Ghattor",
       "review_reply_url": "https://www.google.com/maps/contrib/117558656005584825961/reviews?hl=en-CA",
       "sentiment": "Negative",
-      "primary_category": "Food Quality",
+      "primary_category": "Portion Size",
       "aspects": [
         {
-          "category": "Food Quality",
-          "score": 0.66,
+          "category": "Portion Size",
+          "score": 0.95,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.83,
           "hits": [
-            "cold"
+            "portion",
+            "serving",
+            "size",
+            "small portion"
+          ],
+          "evidence": [
+            "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,",
+            "Last and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10.",
+            "Group size"
           ]
         },
         {
           "category": "Taste",
-          "score": 0.66,
+          "score": 0.86,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.83,
           "hits": [
-            "spicy"
+            "spicy",
+            "taste",
+            "tasted"
+          ],
+          "evidence": [
+            "Bakwas, I don't know how people are fan of their's, I ordered Chana bhatura which didn't tasted well, channa was spiceless,no taste was in it ,just they tried to give small portion of aaloo sabji along which balanced it ,was my first try after long time ND last too, alloo prontha tasted same ,felt like it would've been more spicy,",
+            "Last and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10."
           ]
         },
         {
-          "category": "Portion Size",
-          "score": 0.66,
+          "category": "Food Quality",
+          "score": 0.71,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.69,
           "hits": [
-            "size"
+            "cold"
+          ],
+          "evidence": [
+            "Last and important - I saw pakoras on the display ND I ordered 2 paneer pakoras as I like them alot and when I got it they didn't even microwaved them atleast before serving, they were cold as ever and when I tasted it ,it tasted so disgusting ,it's all about Masala inside which was definitely not upto mark ND even paneer was not real what I felt ,I felt like it was tofu ,cmon guys everywhere u have to use tofu instead of real cheese ,it ended all the taste I was expecting ,I didn't even completed eating pieces i ordered, paneer pakoda was 0/10."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 2/5  |  Service: 4/5  |  Atmosphere: 3/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 2/5  |  Service: 4/5  |  Atmosphere: 3/5"
           ]
         }
       ],
@@ -682,7 +1232,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 3,
-      "review": "The Bhature were quite oily and the Chana could’ve been a lot more flavorful; I was expecting a stronger tadka. The Samosa Chaat felt pretty average, and the samosa didn’t taste fresh at all. The Kachori Chana was slightly better — above average but nothing exceptional.\n\nThere’s no table service, so you have to order at the counter and wait, which can take a while. The place is very small, making it awkward to stand and wait for your order. Also, the cleanliness is below average, which takes away from the overall experience.\n\nDecent for a quick and affordable bite if you’re nearby, but not something I’d go out of my way for.\nFood: 3/5  |  Service: 2/5  |  Atmosphere: 2/5\n\nGroup size\n2 people\n\nWait time\n10-30 min\n\nParking space\nSomewhat difficult to find parking\n\nParking options\nPaid parking lot",
+      "review": "The Bhature were quite oily and the Chana could’ve been a lot more flavorful; I was expecting a stronger tadka. The Samosa Chaat felt pretty average, and the samosa didn’t taste fresh at all. The Kachori Chana was slightly better — above average but nothing exceptional.\r\n\r\nThere’s no table service, so you have to order at the counter and wait, which can take a while. The place is very small, making it awkward to stand and wait for your order. Also, the cleanliness is below average, which takes away from the overall experience.\r\n\r\nDecent for a quick and affordable bite if you’re nearby, but not something I’d go out of my way for.\r\nFood: 3/5  |  Service: 2/5  |  Atmosphere: 2/5\r\n\r\nGroup size\r\n2 people\r\n\r\nWait time\r\n10-30 min\r\n\r\nParking space\r\nSomewhat difficult to find parking\r\n\r\nParking options\r\nPaid parking lot",
       "source": "Google",
       "author": "Kuldip Kanojia",
       "review_reply_url": "https://www.google.com/maps/contrib/104191046564140535330/reviews?hl=en-CA",
@@ -691,75 +1241,119 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.72,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
+          "score": 0.89,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
+            "\\d+\\s*(minutes?|mins?|hours?)",
             "quick",
             "wait"
-          ]
-        },
-        {
-          "category": "Food Quality",
-          "score": 0.66,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
-          "hits": [
-            "fresh"
+          ],
+          "evidence": [
+            "There’s no table service, so you have to order at the counter and wait, which can take a while.",
+            "The place is very small, making it awkward to stand and wait for your order.",
+            "Decent for a quick and affordable bite if you’re nearby,"
           ]
         },
         {
           "category": "Taste",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
+          "score": 0.8,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
           "hits": [
-            "flavor"
+            "flavou?r",
+            "taste"
+          ],
+          "evidence": [
+            "The Bhature were quite oily and the Chana could’ve been a lot more flavorful",
+            "The Samosa Chaat felt pretty average, and the samosa didn’t taste fresh at all."
           ]
         },
         {
-          "category": "Portion Size",
-          "score": 0.66,
+          "category": "Parking / Accessibility",
+          "score": 0.77,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
-            "size"
+            "parking"
+          ],
+          "evidence": [
+            "Parking space",
+            "Somewhat difficult to find parking",
+            "Parking options"
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.74,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "There’s no table service, so you have to order at the counter and wait, which can take a while.",
+            "Food: 3/5  |  Service: 2/5  |  Atmosphere: 2/5"
+          ]
+        },
+        {
+          "category": "Food Quality",
+          "score": 0.71,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
+          "hits": [
+            "fresh"
+          ],
+          "evidence": [
+            "The Samosa Chaat felt pretty average, and the samosa didn’t taste fresh at all."
+          ]
+        },
+        {
+          "category": "Portion Size",
+          "score": 0.71,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "size"
+          ],
+          "evidence": [
+            "Group size"
           ]
         },
         {
           "category": "Cleanliness",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
             "table"
+          ],
+          "evidence": [
+            "There’s no table service, so you have to order at the counter and wait, which can take a while."
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 3/5  |  Service: 2/5  |  Atmosphere: 2/5"
           ]
         },
         {
           "category": "Menu Availability",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
             "out of"
+          ],
+          "evidence": [
+            "not something I’d go out of my way for."
           ]
         }
       ],
@@ -773,7 +1367,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 1,
-      "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
+      "review": "I have been coming here since 1985, it is my favourite childhood restaurant. So imagine my shock when they wouldn't sell me an item that's on the menu and in stock. Idk if the owners have changed or what, everyone working is different, but protecting khadi like it's Ft Knox to a 40 year customer is silly. Motimahal isn't the place I know anymore. They gave me all bones in the butter chicken too, when it's always been white meat.\r\nFood: 5/5  |  Service: 1/5  |  Atmosphere: 3/5",
       "source": "Google",
       "author": "R. Kanji",
       "review_reply_url": "https://www.google.com/maps/contrib/107232624749062124820/reviews?hl=en-CA",
@@ -782,20 +1376,38 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 1/5  |  Atmosphere: 3/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 1/5  |  Atmosphere: 3/5"
+          ]
+        },
+        {
+          "category": "Menu Availability",
+          "score": 0.71,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "menu"
+          ],
+          "evidence": [
+            "So imagine my shock when they wouldn't sell me an item that's on the menu and in stock."
           ]
         }
       ],
@@ -809,7 +1421,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 5,
-      "review": "I had authentic Indian food after a very long time. Chana Bhatura used to be my daily breakfast in a different life and I have missed a good plate almost every day I have been in Toronto.\n\nMy friend took me to Moti Mahal and it was exactly what I was looking for! Even the sweets counter is exactly as you would see in North India. Reminded me of my hometown.\nWait time\nNo wait",
+      "review": "I had authentic Indian food after a very long time. Chana Bhatura used to be my daily breakfast in a different life and I have missed a good plate almost every day I have been in Toronto.\r\n\r\nMy friend took me to Moti Mahal and it was exactly what I was looking for! Even the sweets counter is exactly as you would see in North India. Reminded me of my hometown.\r\nWait time\r\nNo wait",
       "source": "Google",
       "author": "Siddharth Tyagi",
       "review_reply_url": "https://www.google.com/maps/contrib/113864409065114429592/reviews?hl=en-CA",
@@ -818,21 +1430,16 @@
       "aspects": [
         {
           "category": "Wait Time",
-          "score": 0.72,
+          "score": 0.8,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.725,
           "hits": [
-            "late",
+            "no wait",
             "wait"
-          ]
-        },
-        {
-          "category": "Taste",
-          "score": 0.66,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "sweet"
+          ],
+          "evidence": [
+            "Wait time",
+            "No wait"
           ]
         }
       ],
@@ -844,7 +1451,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 5,
-      "review": "A classic and historical spot on Gerrard, we had a great time at MotiMahal! Their food was delicious and authentic, bringing the taste of the street food and dishes to India right here. It was fairly busy when we were there with lots of groups of family and friends there. You can't go wrong with this place.\nFood: 5/5  |  Service: 5/5  |  Atmosphere: 4/5\n\nRecommended dishes\nChanna Bhatura, Raj Kachori, Chicken Tikka, Kulfi",
+      "review": "A classic and historical spot on Gerrard, we had a great time at MotiMahal! Their food was delicious and authentic, bringing the taste of the street food and dishes to India right here. It was fairly busy when we were there with lots of groups of family and friends there. You can't go wrong with this place.\r\nFood: 5/5  |  Service: 5/5  |  Atmosphere: 4/5\r\n\r\nRecommended dishes\r\nChanna Bhatura, Raj Kachori, Chicken Tikka, Kulfi",
       "source": "Google",
       "author": "6ix Foodspots",
       "review_reply_url": "https://www.google.com/maps/contrib/113202096685410723763/reviews?hl=en-CA",
@@ -853,29 +1460,39 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.66,
+          "score": 0.77,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.74,
+          "sentiment_confidence": 0.69,
           "hits": [
-            "delicious"
+            "delicious",
+            "taste"
+          ],
+          "evidence": [
+            "Their food was delicious and authentic, bringing the taste of the street food and dishes to India right here."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 5/5  |  Atmosphere: 4/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 5/5  |  Atmosphere: 4/5"
           ]
         }
       ],
@@ -892,14 +1509,19 @@
       "author": "Akansha Verma ",
       "review_reply_url": "https://www.google.com/maps/contrib/108204734892823580464/reviews?hl=en-CA",
       "sentiment": "Negative",
-      "primary_category": "Food Quality",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Food Quality",
-          "score": 0.4,
+          "category": "Taste",
+          "score": 0.71,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.4,
-          "hits": []
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "taste"
+          ],
+          "evidence": [
+            "No taste at all in any food item we ordered"
+          ]
         }
       ],
       "menu_items": [
@@ -917,24 +1539,44 @@
       "author": "Kirti Khanna",
       "review_reply_url": "https://www.google.com/maps/contrib/105677419357806911202/reviews?hl=en-CA",
       "sentiment": "Negative",
-      "primary_category": "Food Quality",
+      "primary_category": "Cleanliness",
       "aspects": [
         {
-          "category": "Food Quality",
-          "score": 0.66,
+          "category": "Cleanliness",
+          "score": 0.77,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.69,
+          "hits": [
+            "hygiene"
+          ],
+          "evidence": [
+            "I remember visiting it in 2019 when their hygiene was a little better",
+            "Their kitchen has stale food and nobody in the staff has any hygiene manners.",
+            "Never going back unless they fix their hygiene."
+          ]
+        },
+        {
+          "category": "Food Quality",
+          "score": 0.71,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.69,
           "hits": [
             "stale"
+          ],
+          "evidence": [
+            "Their kitchen has stale food and nobody in the staff has any hygiene manners."
           ]
         },
         {
           "category": "Staff Behaviour",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.69,
           "hits": [
             "staff"
+          ],
+          "evidence": [
+            "Their kitchen has stale food and nobody in the staff has any hygiene manners."
           ]
         }
       ],
@@ -957,10 +1599,13 @@
       "aspects": [
         {
           "category": "Food Quality",
-          "score": 0.4,
+          "score": 0.35,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.4,
-          "hits": []
+          "sentiment_confidence": 0.35,
+          "hits": [],
+          "evidence": [
+            "Moti Mahal has existed in this neighbourhood for many years. It offers a mixture of Delhi style street food with South Indian dosas. There are many restaurants in Gerrard Street that offer a diverse mixture of South Asian dishes, but if I'm here in this neighbourhood, I would prefer Moti Mahal."
+          ]
         }
       ],
       "menu_items": []
@@ -971,7 +1616,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
+      "review": "To begin with service they have poor service. The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing but unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry. The food is just a hype…my friends they didn’t even finish their plates……it was just like as we got it. No doubt, the price is cheep as their service and food. The boy Riteish was rude I guess. It’s like one time place!! Never gonna visit again. I had really bad experience.\r\nFood: 3/5  |  Service: 1/5  |  Atmosphere: 1/5",
       "source": "Google",
       "author": "Ayushi Bakshi",
       "review_reply_url": "https://www.google.com/maps/contrib/114575078422859380119/reviews?hl=en-CA",
@@ -980,58 +1625,80 @@
       "aspects": [
         {
           "category": "Staff Behaviour",
-          "score": 0.72,
+          "score": 0.8,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.69,
           "hits": [
             "attitude",
             "rude"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.72,
-          "sentiment": "Negative",
-          "sentiment_confidence": 0.66,
-          "hits": [
-            "dirty",
-            "washroom"
-          ]
-        },
-        {
-          "category": "Price / Value",
-          "score": 0.66,
-          "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "price"
+          ],
+          "evidence": [
+            "The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing",
+            "The boy Riteish was rude I guess."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.77,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.69,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "To begin with service they have poor service.",
+            "No doubt, the price is cheep as their service and food.",
+            "Food: 3/5  |  Service: 1/5  |  Atmosphere: 1/5"
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.66,
+          "category": "Cleanliness",
+          "score": 0.77,
           "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.76,
           "hits": [
-            "late"
+            "dirty",
+            "washroom"
+          ],
+          "evidence": [
+            "unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry."
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.74,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "The cashier over there have some different attitude and the guy who gives order he’s doesn’t have sense to deal with the customer….For the atmosphere, the place is nothing",
+            "Food: 3/5  |  Service: 1/5  |  Atmosphere: 1/5"
+          ]
+        },
+        {
+          "category": "Food Quality",
+          "score": 0.71,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.76,
+          "hits": [
+            "dry"
+          ],
+          "evidence": [
+            "unhygienic…….their washroom is dirty like hell….they have no paper tower to use in the washroom, no dryer is working to get one’s hand dry."
+          ]
+        },
+        {
+          "category": "Price / Value",
+          "score": 0.71,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "price"
+          ],
+          "evidence": [
+            "No doubt, the price is cheep as their service and food."
           ]
         }
       ],
@@ -1043,7 +1710,7 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 3,
-      "review": "I recently visited Moti Mahal for some Indian street food cravings and had a mixed experience. We ordered a variety of chaat items including sweets. The Raj Kachori was a bit disappointing it resembled more of a basket chaat and lacked the authentic flavor and presentation I expected. However, we also did a takeout of Chole Bhature, and it was delicious. A definite must-try if you visit!\n\nOverall, a decent spot for Indian snacks, but stick to the classics like Chole Bhature for the best experience.\nFood: 3/5  |  Service: 5/5  |  Atmosphere: 4/5",
+      "review": "I recently visited Moti Mahal for some Indian street food cravings and had a mixed experience. We ordered a variety of chaat items including sweets. The Raj Kachori was a bit disappointing it resembled more of a basket chaat and lacked the authentic flavor and presentation I expected. However, we also did a takeout of Chole Bhature, and it was delicious. A definite must-try if you visit!\r\n\r\nOverall, a decent spot for Indian snacks, but stick to the classics like Chole Bhature for the best experience.\r\nFood: 3/5  |  Service: 5/5  |  Atmosphere: 4/5",
       "source": "Google",
       "author": "Prajay Patel",
       "review_reply_url": "https://www.google.com/maps/contrib/111791838123684477389/reviews?hl=en-CA",
@@ -1052,49 +1719,65 @@
       "aspects": [
         {
           "category": "Taste",
-          "score": 0.78,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
+          "score": 0.86,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
           "hits": [
             "delicious",
             "flavor",
-            "sweet"
+            "flavou?r"
+          ],
+          "evidence": [
+            "The Raj Kachori was a bit disappointing it resembled more of a basket chaat and lacked the authentic flavor and presentation I expected.",
+            "However, we also did a takeout of Chole Bhature, and it was delicious."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 3/5  |  Service: 5/5  |  Atmosphere: 4/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 3/5  |  Service: 5/5  |  Atmosphere: 4/5"
           ]
         },
         {
           "category": "Delivery / Takeout",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
+          "score": 0.71,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
           "hits": [
             "takeout"
+          ],
+          "evidence": [
+            "However, we also did a takeout of Chole Bhature, and it was delicious."
           ]
         },
         {
           "category": "Menu Availability",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
+          "score": 0.71,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
           "hits": [
             "out of"
+          ],
+          "evidence": [
+            "However, we also did a takeout of Chole Bhature, and it was delicious."
           ]
         }
       ],
@@ -1108,47 +1791,60 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 2,
-      "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
+      "review": "Decent food. I ordered chana bhatura, tandoori chicken and fish pakora. None of the dishes stood out, to be honest. It was just average South Asian food. The chana itself was very salty and the tandoori chicken was well seasoned but not especially moist. The fish pakora isn't worth it at all — small fish pieces in a lot of batter. I don't think I'll be getting food from Moti mahal again.\r\nFood: 3/5  |  Service: 3/5  |  Atmosphere: 3/5",
       "source": "Google",
       "author": "Deep Mistry",
       "review_reply_url": "",
       "sentiment": "Negative",
-      "primary_category": "Taste",
+      "primary_category": "Price / Value",
       "aspects": [
         {
+          "category": "Price / Value",
+          "score": 0.77,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.69,
+          "hits": [
+            "worth",
+            "worth it"
+          ],
+          "evidence": [
+            "The fish pakora isn't worth it at all — small fish pieces in a lot of batter."
+          ]
+        },
+        {
           "category": "Taste",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "salty"
-          ]
-        },
-        {
-          "category": "Price / Value",
-          "score": 0.66,
-          "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "worth"
+          ],
+          "evidence": [
+            "The chana itself was very salty and the tandoori chicken was well seasoned"
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Food: 3/5  |  Service: 3/5  |  Atmosphere: 3/5"
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "atmosphere"
+          ],
+          "evidence": [
+            "Food: 3/5  |  Service: 3/5  |  Atmosphere: 3/5"
           ]
         }
       ],
@@ -1162,56 +1858,80 @@
       "location": "Toronto",
       "review_date": "2025-12-12",
       "rating": 3,
-      "review": "We tried following items,\n- Mango Lassi - 1.5/5 - Was bitter for some reason\n- Falooda - 1/5 - was watered down\n- Channa Bhature - 3.5/5 - this was great but channa and bhature was a bit oily.\n- Pani Puri - 5/5 - it was the best thing we got.\n\nWe took take-out and here are some other stuff we noticed,\n\nStaff - 5/5 - super friendly, we didn’t have to wait too long for food to get ready even though there were a lot of people dining in at the time.\nHygiene - 2/5 - we found dirt on the outside container for the drinks which was off-putting. Also staff was using windex to clean tables as opposed to actual sanitary solutions.\n\nGiving 3/5 for the overall experience here.\nFood: 5/5  |  Service: 5/5  |  Atmosphere: 4/5\n\nSeating type\nIndoor dining area, Counter seating",
+      "review": "We tried following items,\r\n- Mango Lassi - 1.5/5 - Was bitter for some reason\r\n- Falooda - 1/5 - was watered down\r\n- Channa Bhature - 3.5/5 - this was great but channa and bhature was a bit oily.\r\n- Pani Puri - 5/5 - it was the best thing we got.\r\n\r\nWe took take-out and here are some other stuff we noticed,\r\n\r\nStaff - 5/5 - super friendly, we didn’t have to wait too long for food to get ready even though there were a lot of people dining in at the time.\r\nHygiene - 2/5 - we found dirt on the outside container for the drinks which was off-putting. Also staff was using windex to clean tables as opposed to actual sanitary solutions.\r\n\r\nGiving 3/5 for the overall experience here.\r\nFood: 5/5  |  Service: 5/5  |  Atmosphere: 4/5\r\n\r\nSeating type\r\nIndoor dining area, Counter seating",
       "source": "Google",
       "author": "Vihaan Shah",
       "review_reply_url": "https://www.google.com/maps/contrib/117881611790414058797/reviews?hl=en-CA",
       "sentiment": "Neutral",
-      "primary_category": "Service",
+      "primary_category": "Cleanliness",
       "aspects": [
         {
-          "category": "Service",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "service"
-          ]
-        },
-        {
-          "category": "Staff Behaviour",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "staff"
-          ]
-        },
-        {
-          "category": "Wait Time",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "wait"
-          ]
-        },
-        {
           "category": "Cleanliness",
-          "score": 0.66,
-          "sentiment": "Neutral",
-          "sentiment_confidence": 0.48,
+          "score": 0.92,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.69,
           "hits": [
-            "table"
+            "clean",
+            "clean table",
+            "hygiene",
+            "sanitary"
+          ],
+          "evidence": [
+            "Hygiene - 2/5 - we found dirt on the outside container for the drinks which was off-putting.",
+            "Also staff was using windex to clean tables as opposed to actual sanitary solutions."
           ]
         },
         {
           "category": "Ambience",
-          "score": 0.66,
+          "score": 0.83,
           "sentiment": "Neutral",
           "sentiment_confidence": 0.48,
           "hits": [
-            "atmosphere"
+            "atmosphere",
+            "seating"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 5/5  |  Atmosphere: 4/5",
+            "Seating type",
+            "Indoor dining area, Counter seating"
+          ]
+        },
+        {
+          "category": "Staff Behaviour",
+          "score": 0.8,
+          "sentiment": "Positive",
+          "sentiment_confidence": 0.823,
+          "hits": [
+            "friendly",
+            "staff"
+          ],
+          "evidence": [
+            "Staff - 5/5 - super friendly, we didn’t have to wait too long for food to get ready even though there were a lot of people dining in at the time.",
+            "Also staff was using windex to clean tables as opposed to actual sanitary solutions."
+          ]
+        },
+        {
+          "category": "Service",
+          "score": 0.71,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "service"
+          ],
+          "evidence": [
+            "Food: 5/5  |  Service: 5/5  |  Atmosphere: 4/5"
+          ]
+        },
+        {
+          "category": "Delivery / Takeout",
+          "score": 0.71,
+          "sentiment": "Neutral",
+          "sentiment_confidence": 0.48,
+          "hits": [
+            "container"
+          ],
+          "evidence": [
+            "Hygiene - 2/5 - we found dirt on the outside container for the drinks which was off-putting."
           ]
         }
       ],
@@ -1232,11 +1952,14 @@
       "aspects": [
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
             "served"
+          ],
+          "evidence": [
+            "this was the very first time we were served with the oiliest and flakiest bathura’s."
           ]
         }
       ],
@@ -1253,61 +1976,72 @@
       "author": "Nishit Shah",
       "review_reply_url": "https://www.google.com/maps/contrib/114552784744610186742/reviews?hl=en-CA",
       "sentiment": "Positive",
-      "primary_category": "Price / Value",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Price / Value",
-          "score": 0.72,
+          "category": "Taste",
+          "score": 0.86,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.788,
           "hits": [
-            "price",
-            "worth"
+            "delicious",
+            "taste",
+            "tasted"
+          ],
+          "evidence": [
+            "Everything tasted good, naan bread was a little to oily,",
+            "still very delicious."
           ]
         },
         {
-          "category": "Taste",
-          "score": 0.66,
+          "category": "Price / Value",
+          "score": 0.8,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.66,
+          "sentiment_confidence": 0.69,
           "hits": [
-            "delicious"
+            "price",
+            "worth"
+          ],
+          "evidence": [
+            "Portions are decent size for the price, we ate half of what we ordered and took other half home.",
+            "Overall good experience and worth to visit at least once."
           ]
         },
         {
           "category": "Portion Size",
-          "score": 0.66,
+          "score": 0.77,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
+            "portion",
             "size"
+          ],
+          "evidence": [
+            "Portions are decent size for the price, we ate half of what we ordered and took other half home."
           ]
         },
         {
           "category": "Service",
-          "score": 0.66,
+          "score": 0.71,
           "sentiment": "Positive",
-          "sentiment_confidence": 0.48,
+          "sentiment_confidence": 0.76,
           "hits": [
             "service"
+          ],
+          "evidence": [
+            "Service was pretty fast, and it didn't take long for our order to be ready."
           ]
         },
         {
-          "category": "Wait Time",
-          "score": 0.66,
+          "category": "Ambience",
+          "score": 0.71,
           "sentiment": "Positive",
           "sentiment_confidence": 0.48,
           "hits": [
-            "late"
-          ]
-        },
-        {
-          "category": "Cleanliness",
-          "score": 0.66,
-          "sentiment": "Positive",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "table"
+            "comfortable"
+          ],
+          "evidence": [
+            "The place is pretty narrow, and with chairs in the middle, we didn't feel so comfortable walking to the counter to make an order."
           ]
         }
       ],
@@ -1326,33 +2060,46 @@
       "author": "Rob Dick",
       "review_reply_url": "https://www.google.com/maps/contrib/111154416144187613669/reviews?hl=en-CA",
       "sentiment": "Negative",
-      "primary_category": "Food Quality",
+      "primary_category": "Taste",
       "aspects": [
         {
-          "category": "Food Quality",
-          "score": 0.66,
-          "sentiment": "Negative",
-          "sentiment_confidence": 0.48,
-          "hits": [
-            "quality"
-          ]
-        },
-        {
           "category": "Taste",
-          "score": 0.66,
+          "score": 0.86,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
-            "flavor"
+            "flavor",
+            "flavou?r",
+            "taste"
+          ],
+          "evidence": [
+            "The quality of the food, in terms of taste and presentation, did not meet expectations.",
+            "The channa bhature and pani puri lacked flavor."
           ]
         },
         {
           "category": "Price / Value",
-          "score": 0.66,
+          "score": 0.77,
+          "sentiment": "Negative",
+          "sentiment_confidence": 0.704,
+          "hits": [
+            "not worth",
+            "worth"
+          ],
+          "evidence": [
+            "Overall, it was not worth the money."
+          ]
+        },
+        {
+          "category": "Food Quality",
+          "score": 0.71,
           "sentiment": "Negative",
           "sentiment_confidence": 0.48,
           "hits": [
-            "worth"
+            "quality"
+          ],
+          "evidence": [
+            "The quality of the food, in terms of taste and presentation, did not meet expectations."
           ]
         }
       ],

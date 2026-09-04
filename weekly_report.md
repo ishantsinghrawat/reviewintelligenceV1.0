@@ -9,20 +9,20 @@ Window: 2025-11-13 to 2025-12-12
 - Negative: **50.0%**
 - Active alerts: **4**
 
-## Customer feedback needs attention
-20 reviews were analyzed in the latest 30-day window with an average rating of 2.85.
+## Top priority: Taste
+20 reviews were analyzed in the latest 30 days. Average rating is 2.85. Taste has the highest operational priority score (97.0/100).
 
 ## Top concerns
+- Taste
 - Service
-- Ambience
 - Food Quality
 
 ## Top strengths
 - Taste
-- Wait Time
-- Food Quality
+- Ambience
+- Portion Size
 
 ## Recommended actions
-- Review service standards and identify when customer attention breaks down.
-- Review the underlying ambience complaints and identify a recurring operational cause.
-- Review the underlying food quality complaints and identify a recurring operational cause.
+- Review the dishes repeatedly associated with taste complaints and check recipe/seasoning consistency.
+- Review service handoffs and identify where guests stop receiving timely attention.
+- Audit preparation consistency and holding times for the dishes appearing in recent complaints.

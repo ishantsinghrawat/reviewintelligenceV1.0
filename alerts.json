@@ -1,7 +1,7 @@
 [
   {
     "category": "Food Quality",
-    "current_negative": 4,
+    "current_negative": 5,
     "previous_negative": 0,
     "increase_ratio": null,
     "severity": "High",
@@ -9,7 +9,7 @@
   },
   {
     "category": "Taste",
-    "current_negative": 4,
+    "current_negative": 6,
     "previous_negative": 0,
     "increase_ratio": null,
     "severity": "High",
