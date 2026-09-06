@@ -291,3 +291,20 @@ button{
 .no-review-link{color:var(--muted);font-size:12px}
 #issues small,.sub{color:var(--muted)}
 #brief li{margin-bottom:10px;line-height:1.45}
+
+/* V2.1 Operational Intelligence â€” append to existing app.css only */
+.health-card .v{font-size:32px}
+.v21-stack{display:grid;gap:12px}
+.priority-card,.insight-box{border:1px solid var(--line);border-radius:12px;padding:14px;background:#fff}
+.priority-top{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:8px}
+.rank{font-size:12px;color:var(--muted);font-weight:700}
+.priority-evidence{font-size:14px;margin:7px 0}
+.priority-stats{display:flex;gap:8px;flex-wrap:wrap;margin:9px 0}
+.priority-stats span{background:var(--soft);border-radius:999px;padding:5px 8px;font-size:12px}
+.action{font-size:13px;margin:8px 0;line-height:1.45}
+.confidence{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:3px 7px;font-size:10px;font-weight:700;color:var(--muted)}
+.brief-label{font-weight:800;margin:16px 0 8px}
+.insight-box{margin:8px 0}
+.insight-box p{margin:6px 0}
+.method-note{font-size:11px;color:var(--muted);margin-top:14px;line-height:1.4}
+@media(max-width:700px){.priority-top{align-items:flex-start;flex-direction:column}}
