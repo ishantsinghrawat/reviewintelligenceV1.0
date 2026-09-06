@@ -1,6 +1,6 @@
 {
   "analysis_version": "2.1",
-  "generated_at": "2026-09-06T01:57:38",
+  "generated_at": "2026-09-06T02:05:54",
   "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "operational_intelligence": {
@@ -345,15 +345,15 @@
         "average_rating": 1.0,
         "top_negative_issues": [
           {
+            "category": "Ambience",
+            "reviews": 1
+          },
+          {
             "category": "Menu Availability",
             "reviews": 1
           },
           {
             "category": "Service",
-            "reviews": 1
-          },
-          {
-            "category": "Ambience",
             "reviews": 1
           }
         ],
@@ -368,7 +368,7 @@
         "average_rating": 2.0,
         "top_negative_issues": [
           {
-            "category": "Price / Value",
+            "category": "Ambience",
             "reviews": 1
           },
           {
