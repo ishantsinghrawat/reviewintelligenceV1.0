@@ -1,6 +1,6 @@
 {
   "analysis_version": "2.1",
-  "generated_at": "2026-09-07T17:24:31",
+  "generated_at": "2026-09-14T17:50:41",
   "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "operational_intelligence": {
@@ -298,11 +298,11 @@
             "reviews": 2
           },
           {
-            "category": "Food Quality",
+            "category": "Ambience",
             "reviews": 1
           },
           {
-            "category": "Service",
+            "category": "Food Quality",
             "reviews": 1
           }
         ],
@@ -320,15 +320,15 @@
         "average_rating": 3.0,
         "top_negative_issues": [
           {
-            "category": "Food Quality",
-            "reviews": 1
-          },
-          {
             "category": "Staff Behaviour",
             "reviews": 1
           },
           {
             "category": "Cleanliness",
+            "reviews": 1
+          },
+          {
+            "category": "Food Quality",
             "reviews": 1
           }
         ],
@@ -345,7 +345,7 @@
         "average_rating": 1.0,
         "top_negative_issues": [
           {
-            "category": "Menu Availability",
+            "category": "Ambience",
             "reviews": 1
           },
           {
@@ -353,7 +353,7 @@
             "reviews": 1
           },
           {
-            "category": "Ambience",
+            "category": "Menu Availability",
             "reviews": 1
           }
         ],
@@ -368,15 +368,15 @@
         "average_rating": 2.0,
         "top_negative_issues": [
           {
-            "category": "Taste",
-            "reviews": 1
-          },
-          {
             "category": "Price / Value",
             "reviews": 1
           },
           {
-            "category": "Service",
+            "category": "Ambience",
+            "reviews": 1
+          },
+          {
+            "category": "Taste",
             "reviews": 1
           }
         ],
