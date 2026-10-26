@@ -1,6 +1,6 @@
 {
   "analysis_version": "2.1",
-  "generated_at": "2026-10-19T18:26:04",
+  "generated_at": "2026-10-26T18:21:40",
   "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "operational_intelligence": {
@@ -302,7 +302,7 @@
             "reviews": 1
           },
           {
-            "category": "Service",
+            "category": "Food Quality",
             "reviews": 1
           }
         ],
@@ -324,11 +324,11 @@
             "reviews": 1
           },
           {
-            "category": "Cleanliness",
+            "category": "Food Quality",
             "reviews": 1
           },
           {
-            "category": "Food Quality",
+            "category": "Cleanliness",
             "reviews": 1
           }
         ],
@@ -349,11 +349,11 @@
             "reviews": 1
           },
           {
-            "category": "Menu Availability",
+            "category": "Service",
             "reviews": 1
           },
           {
-            "category": "Service",
+            "category": "Menu Availability",
             "reviews": 1
           }
         ],
@@ -376,7 +376,7 @@
             "reviews": 1
           },
           {
-            "category": "Price / Value",
+            "category": "Taste",
             "reviews": 1
           }
         ],
