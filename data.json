@@ -1,6 +1,6 @@
 {
   "analysis_version": "2.1",
-  "generated_at": "2026-10-26T18:21:40",
+  "generated_at": "2026-11-02T21:28:26",
   "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "operational_intelligence": {
@@ -298,7 +298,7 @@
             "reviews": 2
           },
           {
-            "category": "Ambience",
+            "category": "Service",
             "reviews": 1
           },
           {
@@ -320,7 +320,7 @@
         "average_rating": 3.0,
         "top_negative_issues": [
           {
-            "category": "Staff Behaviour",
+            "category": "Cleanliness",
             "reviews": 1
           },
           {
@@ -328,7 +328,7 @@
             "reviews": 1
           },
           {
-            "category": "Cleanliness",
+            "category": "Staff Behaviour",
             "reviews": 1
           }
         ],
@@ -345,15 +345,15 @@
         "average_rating": 1.0,
         "top_negative_issues": [
           {
-            "category": "Ambience",
-            "reviews": 1
-          },
-          {
             "category": "Service",
             "reviews": 1
           },
           {
             "category": "Menu Availability",
+            "reviews": 1
+          },
+          {
+            "category": "Ambience",
             "reviews": 1
           }
         ],
@@ -368,11 +368,11 @@
         "average_rating": 2.0,
         "top_negative_issues": [
           {
-            "category": "Ambience",
+            "category": "Service",
             "reviews": 1
           },
           {
-            "category": "Service",
+            "category": "Price / Value",
             "reviews": 1
           },
           {
