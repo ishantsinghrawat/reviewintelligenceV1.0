@@ -1,6 +1,6 @@
 {
   "analysis_version": "2.1",
-  "generated_at": "2026-11-02T21:28:26",
+  "generated_at": "2026-11-09T21:59:39",
   "data_mode": "demo",
   "source_file": "sample_reviews.csv",
   "operational_intelligence": {
@@ -302,7 +302,7 @@
             "reviews": 1
           },
           {
-            "category": "Food Quality",
+            "category": "Ambience",
             "reviews": 1
           }
         ],
@@ -320,7 +320,7 @@
         "average_rating": 3.0,
         "top_negative_issues": [
           {
-            "category": "Cleanliness",
+            "category": "Staff Behaviour",
             "reviews": 1
           },
           {
@@ -328,7 +328,7 @@
             "reviews": 1
           },
           {
-            "category": "Staff Behaviour",
+            "category": "Cleanliness",
             "reviews": 1
           }
         ],
@@ -372,11 +372,11 @@
             "reviews": 1
           },
           {
-            "category": "Price / Value",
+            "category": "Taste",
             "reviews": 1
           },
           {
-            "category": "Taste",
+            "category": "Price / Value",
             "reviews": 1
           }
         ],
